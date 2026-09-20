@@ -31,6 +31,9 @@ export default function Landing({
         {/* The wordmark carries the page on its own now — it is the heading, so it
           * is marked up as one rather than as a decorative image above one. */}
         <header className="landing-head">
+          {/* Decorative mark to the left of the wordmark — the wordmark already
+            * names the product, so this one carries no alt text of its own. */}
+          <img className="landing-mark" src="/logo.png" alt="" aria-hidden="true" />
           <h1 className="landing-title">
             <img className="landing-logo" src="/title.png" alt="VeggieDelhi" />
           </h1>

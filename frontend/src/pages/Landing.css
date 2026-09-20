@@ -21,7 +21,14 @@
 
 /* --- header -------------------------------------------------------------- */
 
+/* Mark and wordmark form one centred lockup, side by side. They wrap to a stack
+ * on narrow screens rather than squeezing the wordmark down to nothing. */
 .landing-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-4);
   text-align: center;
   margin-bottom: var(--space-7);
 }
@@ -30,13 +37,26 @@
  * used to sit beneath it. Width-bound rather than height-bound so it scales like the
  * block of text it replaced, filling the measure at the same rhythm the headline did
  * and shrinking with the viewport instead of overflowing it. */
+/* Height-bound, because it is roughly square and sits beside a wide wordmark —
+ * matching heights is what makes the two read as one lockup. Never shrinks. */
+.landing-mark {
+  display: block;
+  flex: none;
+  width: auto;
+  height: 7rem;
+}
+
+/* Takes the wordmark's old width as its preferred size but yields it back when
+ * the mark and the gap no longer fit. */
 .landing-title {
+  flex: 0 1 26rem;
+  min-width: 0;
   margin: 0;
 }
 
 .landing-logo {
   display: block;
-  width: min(100%, 26rem);
+  width: 100%;
   height: auto;
   margin: 0 auto;
 }
