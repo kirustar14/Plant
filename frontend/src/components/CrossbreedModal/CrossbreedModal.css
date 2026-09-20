@@ -1,0 +1,511 @@
+/* --- scrim + shell -------------------------------------------------------- */
+
+.cb-scrim {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  background: var(--scrim);
+  backdrop-filter: blur(3px);
+  display: grid;
+  place-items: center;
+  padding: var(--space-5);
+  animation: cb-fade var(--duration-fast) var(--ease);
+}
+
+@keyframes cb-fade {
+  from {
+    opacity: 0;
+  }
+}
+
+.cb-modal {
+  width: min(64rem, 100%);
+  max-height: min(46rem, 92vh);
+  display: flex;
+  flex-direction: column;
+  background: var(--bg-card);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-modal);
+  outline: none;
+  overflow: hidden;
+  animation: cb-rise var(--duration) var(--ease);
+  /* Text selection during a drag looks broken; the tray is a drag surface. */
+  user-select: none;
+}
+
+@keyframes cb-rise {
+  from {
+    opacity: 0;
+    transform: translateY(12px) scale(0.99);
+  }
+}
+
+/* --- header --------------------------------------------------------------- */
+
+.cb-head {
+  flex: none;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--space-4);
+  padding: var(--space-5) var(--space-5) var(--space-4);
+  border-bottom: 1px solid var(--border);
+}
+
+.cb-title {
+  font-size: var(--text-xl);
+  margin-top: 2px;
+}
+
+.cb-head-right {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+}
+
+.cb-close {
+  width: 30px;
+  height: 30px;
+  display: grid;
+  place-items: center;
+  border-radius: var(--radius-sm);
+  color: var(--text-muted);
+  transition: background var(--duration-fast) var(--ease);
+}
+
+.cb-close svg {
+  width: 15px;
+  height: 15px;
+}
+
+.cb-close:hover {
+  background: var(--green-100);
+  color: var(--text);
+}
+
+/* --- body split ----------------------------------------------------------- */
+
+.cb-body {
+  flex: 1;
+  min-height: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.cb-left {
+  padding: var(--space-5);
+  border-right: 1px solid var(--border);
+  overflow-y: auto;
+}
+
+.cb-right {
+  padding: var(--space-5);
+  background: var(--green-50);
+  overflow-y: auto;
+}
+
+.cb-instruction {
+  font-size: var(--text-sm);
+  color: var(--text-muted);
+  margin-bottom: var(--space-4);
+  text-wrap: pretty;
+}
+
+/* --- slots ---------------------------------------------------------------- */
+
+.cb-slots {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: center;
+  gap: var(--space-3);
+}
+
+.cb-cross {
+  font-family: var(--font-display);
+  font-size: var(--text-xl);
+  color: var(--text-faint);
+}
+
+.cb-slot {
+  position: relative;
+  min-height: 5.25rem;
+  display: grid;
+  place-content: center;
+  text-align: center;
+  padding: var(--space-3);
+  border: 1.5px dashed var(--border-strong);
+  border-radius: var(--radius);
+  background: var(--paper);
+  transition: border-color var(--duration-fast) var(--ease),
+    background var(--duration-fast) var(--ease),
+    transform var(--duration-fast) var(--ease);
+}
+
+.cb-slot.is-active {
+  border-color: var(--accent);
+  border-style: solid;
+  background: var(--green-100);
+  transform: scale(1.03);
+}
+
+.cb-slot.is-filled {
+  border-style: solid;
+  border-color: var(--green-300);
+  background: var(--bg-card);
+}
+
+.cb-slot-empty {
+  font-size: var(--text-xs);
+  color: var(--text-faint);
+}
+
+.cb-slot-name {
+  font-weight: 600;
+  font-size: var(--text-sm);
+  line-height: var(--leading-snug);
+}
+
+.cb-slot-sci {
+  font-size: var(--text-xs);
+  font-style: italic;
+  color: var(--text-muted);
+}
+
+.cb-slot-clear {
+  position: absolute;
+  top: 4px;
+  right: 6px;
+  color: var(--text-faint);
+  font-size: 15px;
+  line-height: 1;
+  padding: 2px 4px;
+  border-radius: 4px;
+}
+
+.cb-slot-clear:hover {
+  background: var(--green-100);
+  color: var(--text);
+}
+
+.cb-clear {
+  margin-top: var(--space-3);
+  font-size: var(--text-xs);
+  font-weight: 600;
+  color: var(--text-muted);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+/* --- tray ----------------------------------------------------------------- */
+
+.cb-tray-label {
+  display: block;
+  margin: var(--space-5) 0 var(--space-3);
+}
+
+.cb-tier-note {
+  margin-top: -6px;
+  margin-bottom: var(--space-3);
+}
+
+.cb-tray {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2);
+}
+
+.cb-chip {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  text-align: left;
+  padding: var(--space-2) var(--space-3);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  background: var(--bg-card);
+  cursor: grab;
+  touch-action: none; /* let pointermove drive the drag, not the scroller */
+  transition: border-color var(--duration-fast) var(--ease),
+    box-shadow var(--duration-fast) var(--ease),
+    transform var(--duration-fast) var(--ease);
+}
+
+.cb-chip:hover {
+  border-color: var(--green-300);
+  box-shadow: var(--shadow-card);
+  transform: translateY(-1px);
+}
+
+.cb-chip:active {
+  cursor: grabbing;
+}
+
+.cb-chip.is-dragging {
+  opacity: 0.35;
+}
+
+.cb-chip-name {
+  font-size: var(--text-sm);
+  font-weight: 600;
+}
+
+.cb-chip-sci {
+  font-size: 11px;
+  font-style: italic;
+  color: var(--text-faint);
+}
+
+.cb-tray-cultivar {
+  flex-direction: column;
+}
+
+.cb-cultivar-pair {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  width: 100%;
+  text-align: left;
+  padding: var(--space-3);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  background: var(--bg-card);
+  font-size: var(--text-sm);
+  transition: border-color var(--duration-fast) var(--ease),
+    background var(--duration-fast) var(--ease);
+}
+
+.cb-cultivar-pair:hover {
+  border-color: var(--green-300);
+  background: var(--green-50);
+}
+
+.cb-cultivar-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  flex: none;
+}
+
+/* --- drag ghost ----------------------------------------------------------- */
+
+.cb-ghost {
+  position: fixed;
+  z-index: 1100;
+  transform: translate(-50%, -50%) rotate(-2deg);
+  padding: var(--space-2) var(--space-3);
+  border-radius: var(--radius-sm);
+  background: var(--accent);
+  color: var(--accent-contrast);
+  font-size: var(--text-sm);
+  font-weight: 600;
+  box-shadow: var(--shadow-raised);
+  pointer-events: none;
+}
+
+/* --- result --------------------------------------------------------------- */
+
+.cb-placeholder {
+  height: 100%;
+  display: grid;
+  place-content: center;
+  text-align: center;
+  font-size: var(--text-sm);
+  padding: var(--space-5);
+}
+
+.cb-image {
+  aspect-ratio: 16 / 10;
+  border-radius: var(--radius);
+  background: var(--sage-100);
+  border: 1px dashed var(--border-strong);
+  display: grid;
+  place-items: center;
+  overflow: hidden;
+  margin-bottom: var(--space-5);
+}
+
+.cb-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* A real image earns a solid edge; the dashed border is the empty-slot cue. */
+.cb-image:has(img) {
+  border-style: solid;
+  border-color: var(--border);
+  background: var(--sage-100);
+}
+
+.cb-image-caption {
+  margin: calc(var(--space-5) * -1 + var(--space-2)) 0 var(--space-5);
+  text-wrap: pretty;
+}
+
+.cb-image-pending {
+  text-align: center;
+  padding: var(--space-4);
+  max-width: 20rem;
+}
+
+.cb-image-pending .provenance {
+  margin-top: var(--space-2);
+}
+
+/* Failure is a state to notice, not a quieter version of "pending". */
+.cb-image-failed {
+  max-width: 24rem;
+}
+
+.cb-image-failed .eyebrow {
+  color: var(--priority-critical);
+}
+
+.cb-image-failed code {
+  font-family: var(--font-mono);
+  font-size: 0.95em;
+  background: var(--bg-card);
+  padding: 1px 4px;
+  border-radius: 3px;
+}
+
+.cb-score-row {
+  display: flex;
+  align-items: center;
+  gap: var(--space-5);
+  margin-bottom: var(--space-4);
+}
+
+.cb-score-num {
+  font-family: var(--font-display);
+  font-size: var(--text-2xl);
+  font-weight: 500;
+  line-height: 1;
+}
+
+.cb-score-meta {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--space-1);
+}
+
+.cb-score-label {
+  font-size: var(--text-sm);
+  font-weight: 600;
+}
+
+.cb-explanation {
+  margin-top: var(--space-4);
+  font-size: var(--text-sm);
+  line-height: var(--leading-normal);
+  color: var(--text-muted);
+  text-wrap: pretty;
+}
+
+/* --- term breakdown -------------------------------------------------------- */
+
+.cb-terms {
+  margin: var(--space-5) 0 var(--space-4);
+  display: grid;
+  gap: var(--space-2);
+}
+
+.cb-term {
+  display: grid;
+  grid-template-columns: 8.5rem 1fr;
+  align-items: center;
+  gap: var(--space-3);
+}
+
+.cb-term dt {
+  font-size: var(--text-xs);
+  color: var(--text-muted);
+}
+
+.cb-term dd {
+  margin: 0;
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+}
+
+.cb-term-bar {
+  flex: 1;
+  height: 4px;
+  border-radius: var(--radius-pill);
+  background: var(--sage-200);
+  position: relative;
+  overflow: hidden;
+}
+
+.cb-term-bar::after {
+  content: "";
+  position: absolute;
+  inset: 0 auto 0 0;
+  width: calc(var(--v, 0) * 100%);
+  background: var(--green-400);
+  border-radius: inherit;
+}
+
+.cb-term dd .tabular {
+  font-size: var(--text-xs);
+  min-width: 2.2rem;
+  text-align: right;
+}
+
+/* --- sources -------------------------------------------------------------- */
+
+.cb-sources {
+  margin-top: var(--space-4);
+  padding-top: var(--space-3);
+  border-top: 1px solid var(--border);
+}
+
+.cb-sources summary {
+  cursor: pointer;
+}
+
+.cb-sources ul {
+  margin: var(--space-2) 0 0;
+  padding-left: var(--space-4);
+}
+
+.cb-sources li {
+  margin-bottom: 2px;
+}
+
+.cb-gap {
+  color: #8a6f3c;
+}
+
+.cb-error,
+.cb-miss {
+  margin: var(--space-4) 0 0;
+  font-size: var(--text-sm);
+  color: var(--priority-critical);
+}
+
+.cb-miss code {
+  font-family: var(--font-mono);
+  font-size: 0.9em;
+  background: var(--green-100);
+  padding: 1px 4px;
+  border-radius: 4px;
+}
+
+/* --- narrow --------------------------------------------------------------- */
+
+@media (max-width: 900px) {
+  .cb-body {
+    grid-template-columns: 1fr;
+  }
+
+  .cb-left {
+    border-right: none;
+    border-bottom: 1px solid var(--border);
+  }
+}

@@ -1,0 +1,91 @@
+{
+ "source": "Central Ground Water Board (CGWB) — Dynamic Ground Water Resources of India, 2023 assessment, tehsil-wise for NCT of Delhi",
+ "source_note": "Categories below are the tehsil-wise 2023 assessment as reported in Indian press coverage of the CGWB compilation (Times of India, 3 December 2023). CGWB assesses groundwater by administrative assessment unit; for Delhi the unit is the tehsil.",
+ "assessment_year": 2023,
+ "newer_assessment_note": "A 2025 national compilation reports Delhi's 34 assessment units as 10 over-exploited, 11 critical, 6 semi-critical and 7 safe, but its per-tehsil breakdown is not published in a form this project could read. The 2023 per-tehsil categories are used here and labelled with their year rather than presented as current.",
+ "resolution_note": "A category describes a whole tehsil — typically tens of square kilometres. The demo zones are 600 m cells. A zone therefore inherits its tehsil's category; it is not a measurement taken at the zone.",
+ "categories": {
+  "safe": "Groundwater extraction is below the annually replenishable resource.",
+  "semi_critical": "Extraction is approaching the replenishable limit.",
+  "critical": "Extraction is at or near the replenishable limit, with declining water levels.",
+  "over_exploited": "Annual extraction exceeds the annually replenishable resource."
+ },
+ "tehsils": {
+  "Karol Bagh": {"district": "Central", "category": "over_exploited"},
+  "Kotwali": {"district": "Central", "category": "critical"},
+  "Mayur Vihar": {"district": "East", "category": "critical"},
+  "Delhi Cantonment": {"district": "New Delhi", "category": "over_exploited"},
+  "Chanakyapuri": {"district": "New Delhi", "category": "over_exploited"},
+  "Vasant Vihar": {"district": "New Delhi", "category": "over_exploited"},
+  "Narela": {"district": "North", "category": "over_exploited"},
+  "Model Town": {"district": "North", "category": "critical"},
+  "Yamuna Vihar": {"district": "North East", "category": "over_exploited"},
+  "Karawal Nagar": {"district": "North East", "category": "over_exploited"},
+  "Vivek Vihar": {"district": "Shahdara", "category": "over_exploited"},
+  "Shahdara": {"district": "Shahdara", "category": "over_exploited"},
+  "Seemapuri": {"district": "Shahdara", "category": "critical"},
+  "Mehrauli": {"district": "South", "category": "over_exploited"},
+  "Saket": {"district": "South", "category": "over_exploited"},
+  "Hauz Khas": {"district": "South", "category": "critical"},
+  "Kalkaji": {"district": "South East", "category": "critical"},
+  "Defence Colony": {"district": "South East", "category": "critical"},
+  "Sarita Vihar": {"district": "South East", "category": "critical"},
+  "Kapashera": {"district": "South West", "category": "over_exploited"},
+  "Dwarka": {"district": "South West", "category": "critical"},
+  "Rajouri Garden": {"district": "West", "category": "over_exploited"},
+  "Patel Nagar": {"district": "West", "category": "critical"}
+ },
+ "tehsil_coverage_note": "23 of Delhi's ~33 tehsils appear in the sourced table. Zones whose tehsil is absent report no category rather than borrowing a neighbour's.",
+ "zone_tehsil": {
+  "lodhi-garden": {
+   "tehsil": "Chanakyapuri",
+   "match": "approximate",
+   "note": "New Delhi district is certain; the zone sits near the Chanakyapuri / Connaught Place / Parliament Street tehsil boundaries and the exact containing tehsil was not verified against a boundary dataset."
+  },
+  "nehru-park": {
+   "tehsil": "Chanakyapuri",
+   "match": "confirmed",
+   "note": "The zone is within Chanakyapuri by name and location."
+  },
+  "sanjay-van": {
+   "tehsil": "Vasant Vihar",
+   "match": "confirmed",
+   "note": "Vasant Kunj falls within the Vasant Vihar tehsil."
+  },
+  "anand-vihar": {
+   "tehsil": "Preet Vihar",
+   "match": "approximate",
+   "note": "East district; the zone lies near the Preet Vihar / Vivek Vihar boundary. Preet Vihar has no category in the sourced table, so none is reported."
+  },
+  "connaught-place": {
+   "tehsil": "Connaught Place",
+   "match": "confirmed",
+   "note": "Connaught Place has no category in the sourced table, so none is reported."
+  },
+  "karol-bagh": {
+   "tehsil": "Karol Bagh",
+   "match": "confirmed",
+   "note": "The zone is within the Karol Bagh tehsil by name and location."
+  },
+  "punjabi-bagh": {
+   "tehsil": "Punjabi Bagh",
+   "match": "confirmed",
+   "note": "Punjabi Bagh has no category in the sourced table, so none is reported."
+  },
+  "rk-puram": {
+   "tehsil": "Delhi Cantonment",
+   "match": "approximate",
+   "note": "South West district; R K Puram is administratively within the Delhi Cantonment tehsil, but the adjacent Vasant Vihar tehsil is also plausible at this boundary. Both are categorised over-exploited, so the reported category does not depend on which is correct."
+  },
+  "okhla-industrial": {
+   "tehsil": "Kalkaji",
+   "match": "approximate",
+   "note": "South East district; the zone sits near the Kalkaji / Sarita Vihar boundary. Both are categorised critical, so the reported category does not depend on which is correct."
+  },
+  "mayapuri": {
+   "tehsil": "Rajouri Garden",
+   "match": "approximate",
+   "note": "West district; Mayapuri lies near the Rajouri Garden / Patel Nagar boundary, which are categorised over-exploited and critical respectively, so the boundary does affect the reported category here."
+  }
+ }
+}

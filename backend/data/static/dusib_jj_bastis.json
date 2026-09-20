@@ -1,0 +1,4057 @@
+{
+ "source": "DUSIB — List of 675 J.J. Bastis with Latitude and Longitude (published 16-09-2022)",
+ "source_url": "https://delhishelterboard.in/main/wp-content/uploads/2022/09/JJC_List_675_Geo_Coordinates.pdf",
+ "published": "2022-09-16",
+ "cluster_count": 674,
+ "unparsed_serials": [
+  675
+ ],
+ "resolution_note": "Each basti is published as a single representative point, not a boundary. A cluster whose point falls outside a zone may still extend into it, so in-zone counts are a lower bound.",
+ "coverage_note": "JJ bastis only. Unauthorised colonies, resettlement colonies and urban villages are separate settlement types not recorded here, so the absence of a basti is not evidence that an area is affluent.",
+ "clusters": [
+  {
+   "sno": 1,
+   "name": "F-Block Mangolpuri",
+   "latitude": 28.693445,
+   "longitude": 77.099912
+  },
+  {
+   "sno": 2,
+   "name": "G-Block Mangol Puri",
+   "latitude": 28.695974,
+   "longitude": 77.099184
+  },
+  {
+   "sno": 3,
+   "name": "Hans Raj Mulk Raj Bhatta Jwalapuri",
+   "latitude": 28.679975,
+   "longitude": 77.08155
+  },
+  {
+   "sno": 4,
+   "name": "JJC Indira Camp Jaipur Golden Hospital Sec-3 Rohini",
+   "latitude": 28.698405,
+   "longitude": 77.111534
+  },
+  {
+   "sno": 5,
+   "name": "Jagannath Camp Udyog Nagar Peera Garhi",
+   "latitude": 28.682287,
+   "longitude": 77.092334
+  },
+  {
+   "sno": 6,
+   "name": "K-Block Mangol Puri",
+   "latitude": 28.69406,
+   "longitude": 77.083542
+  },
+  {
+   "sno": 7,
+   "name": "L-Block Mangol Puri",
+   "latitude": 28.694628,
+   "longitude": 77.084412
+  },
+  {
+   "sno": 8,
+   "name": "Leprosy Camp Near C-3 Udyog Nagar.",
+   "latitude": 28.682756,
+   "longitude": 77.094753
+  },
+  {
+   "sno": 9,
+   "name": "Q-Block, Mangol Puri",
+   "latitude": 28.690398,
+   "longitude": 77.08971
+  },
+  {
+   "sno": 10,
+   "name": "Road No.-5 Jawala Puri",
+   "latitude": 28.676719,
+   "longitude": 77.080598
+  },
+  {
+   "sno": 11,
+   "name": "X-Block Mangol Puri",
+   "latitude": 28.696312,
+   "longitude": 77.080426
+  },
+  {
+   "sno": 12,
+   "name": "Bheem Nagarbehind Nangloi Bus Depot",
+   "latitude": 28.683896,
+   "longitude": 77.077246
+  },
+  {
+   "sno": 13,
+   "name": "C-Block Near Tanga Stand Mangol Puri",
+   "latitude": 28.688682,
+   "longitude": 77.092971
+  },
+  {
+   "sno": 14,
+   "name": "C-3 Udog Nagar Near Pira Garhi Fly Over.",
+   "latitude": 28.682678,
+   "longitude": 77.094202
+  },
+  {
+   "sno": 15,
+   "name": "JJ Camp F Extensionkhayala Near O.H.Tank.",
+   "latitude": 28.655799,
+   "longitude": 77.105725
+  },
+  {
+   "sno": 16,
+   "name": "Seekari Bhatta.",
+   "latitude": 28.645081,
+   "longitude": 77.105516
+  },
+  {
+   "sno": 17,
+   "name": "Back Sideof Sanatan Dhram Mandir, Shiv Mandir K-Block, Shyam Nagar",
+   "latitude": 28.643915,
+   "longitude": 77.105969
+  },
+  {
+   "sno": 18,
+   "name": "Nehru Camp Behind Satya Rani Farm Bijwasan",
+   "latitude": 28.527388,
+   "longitude": 77.065691
+  },
+  {
+   "sno": 19,
+   "name": "Rangpur Pahari Milkpur Kohi",
+   "latitude": 28.536083,
+   "longitude": 77.134679
+  },
+  {
+   "sno": 20,
+   "name": "Rangpuri Pharai Nalla",
+   "latitude": 28.525604,
+   "longitude": 77.125095
+  },
+  {
+   "sno": 21,
+   "name": "Harijan Balmiki Camp Rangpur Pahadi",
+   "latitude": 28.538447,
+   "longitude": 77.136318
+  },
+  {
+   "sno": 22,
+   "name": "Behind Police Station Vasant Kunj Sector C Pocket-9",
+   "latitude": 28.535071,
+   "longitude": 77.143629
+  },
+  {
+   "sno": 23,
+   "name": "Sonia Gandhi Camp Near Petrol Pump Smalka Phase.II",
+   "latitude": 28.533555,
+   "longitude": 77.091607
+  },
+  {
+   "sno": 24,
+   "name": "E-Block Raghubir Nagar",
+   "latitude": 28.648885,
+   "longitude": 77.106147
+  },
+  {
+   "sno": 25,
+   "name": "Arjun Camp Mahipal Pur",
+   "latitude": 28.552163,
+   "longitude": 77.135445
+  },
+  {
+   "sno": 26,
+   "name": "A-2 Block, Sultanpuri.",
+   "latitude": 28.694546,
+   "longitude": 77.076453
+  },
+  {
+   "sno": 27,
+   "name": "Udyog Nagar Water Tank No.-2 Jwalapuri",
+   "latitude": 28.682332,
+   "longitude": 77.089326
+  },
+  {
+   "sno": 28,
+   "name": "F Extension/Outside Boundary Wallof G.G.S.Hospital Khayala",
+   "latitude": 28.654716,
+   "longitude": 77.105977
+  },
+  {
+   "sno": 29,
+   "name": "Balmiki Camp Creamation Ground Begum Pur",
+   "latitude": 28.53906,
+   "longitude": 77.210438
+  },
+  {
+   "sno": 30,
+   "name": "Indira Camp Begum Pur",
+   "latitude": 28.536971,
+   "longitude": 77.209002
+  },
+  {
+   "sno": 31,
+   "name": "Balmiki Camp Navjeewan Vihar Malviya Nagar",
+   "latitude": 28.532137,
+   "longitude": 77.201568
+  },
+  {
+   "sno": 32,
+   "name": "Jagdamba Camp Khirki Gaun Near Satpula Nalla.",
+   "latitude": 28.533623,
+   "longitude": 77.22245
+  },
+  {
+   "sno": 33,
+   "name": "Jagdamba Camp Near SFS Sheikh Sarai",
+   "latitude": 28.535816,
+   "longitude": 77.220783
+  },
+  {
+   "sno": 34,
+   "name": "Inthe Northof Okhla Village Khizarbaba Camp Okhla New Delhi",
+   "latitude": 28.56498,
+   "longitude": 77.285011
+  },
+  {
+   "sno": 35,
+   "name": "Indira Camp Pahari No.-2 Taimur Nagar",
+   "latitude": 28.572305,
+   "longitude": 77.267718
+  },
+  {
+   "sno": 36,
+   "name": "New Priyanka Campnear Sarita Vihar",
+   "latitude": 28.529047,
+   "longitude": 77.302728
+  },
+  {
+   "sno": 37,
+   "name": "Rajasthni Camp Near Janta Quarter, Sarita Vihar",
+   "latitude": 28.539765,
+   "longitude": 77.298985
+  },
+  {
+   "sno": 38,
+   "name": "Anna Nagar Sanjay Colony Vikas Kutternear Tilak Bridge I.T.O, New Delhi",
+   "latitude": 28.621983,
+   "longitude": 77.246364
+  },
+  {
+   "sno": 39,
+   "name": "Balmiki Basti Kabristanbehind Express Building",
+   "latitude": 28.633343,
+   "longitude": 77.242494
+  },
+  {
+   "sno": 40,
+   "name": "Delhi Public School Mathura Road.",
+   "latitude": 28.595146,
+   "longitude": 77.243306
+  },
+  {
+   "sno": 41,
+   "name": "Gandhi Sahitya Samiti Stadium(100 Seater)",
+   "latitude": 28.639023,
+   "longitude": 77.244886
+  },
+  {
+   "sno": 42,
+   "name": "Indira Gandhi Camp No-3near Railway Line Hari Nagar Ashram",
+   "latitude": 28.577719,
+   "longitude": 77.254845
+  },
+  {
+   "sno": 43,
+   "name": "JJ Cluster Janta Camp Railway Nurserybehind Pragati Maidan",
+   "latitude": 28.609742,
+   "longitude": 77.248664
+  },
+  {
+   "sno": 44,
+   "name": "Nagla Bharon Road Hafiz Nagar",
+   "latitude": 28.612427,
+   "longitude": 77.250478
+  },
+  {
+   "sno": 45,
+   "name": "BIWJJ Camp B.T.Badarpur",
+   "latitude": 28.510665,
+   "longitude": 77.304904
+  },
+  {
+   "sno": 46,
+   "name": "Subash Camp NTPC Badarpur",
+   "latitude": 28.507148,
+   "longitude": 77.300877
+  },
+  {
+   "sno": 47,
+   "name": "Bilas Pur Camp Molar Band NTPC",
+   "latitude": 28.506322,
+   "longitude": 77.312796
+  },
+  {
+   "sno": 48,
+   "name": "Parasad Nagar, Meethapur",
+   "latitude": 28.484367,
+   "longitude": 77.313165
+  },
+  {
+   "sno": 49,
+   "name": "Junapur Bhim Basti",
+   "latitude": 28.456429,
+   "longitude": 77.143058
+  },
+  {
+   "sno": 50,
+   "name": "Mandi Village(Shanti Camp)",
+   "latitude": 28.447923,
+   "longitude": 77.142056
+  },
+  {
+   "sno": 51,
+   "name": "Mandi Village(Biru Camp)",
+   "latitude": 28.44977,
+   "longitude": 77.143825
+  },
+  {
+   "sno": 52,
+   "name": "Mandi Village Bapu Camp",
+   "latitude": 28.45144,
+   "longitude": 77.144965
+  },
+  {
+   "sno": 53,
+   "name": "Mandi Pahari(Shambhav Camp)",
+   "latitude": 28.450414,
+   "longitude": 77.146759
+  },
+  {
+   "sno": 54,
+   "name": "Sanjay Colony-Mehrauli Bhatti Mines",
+   "latitude": 28.431437,
+   "longitude": 77.22744
+  },
+  {
+   "sno": 55,
+   "name": "Dr.Ambedkar Satwari Mehrauli",
+   "latitude": 28.4798,
+   "longitude": 77.191152
+  },
+  {
+   "sno": 56,
+   "name": "Suhurpuri Mehrauli",
+   "latitude": 28.471698,
+   "longitude": 77.191442
+  },
+  {
+   "sno": 57,
+   "name": "Ambedker Colony Andheria More",
+   "latitude": 28.507117,
+   "longitude": 77.176868
+  },
+  {
+   "sno": 58,
+   "name": "Mubarak Bagh P.S.Model Town",
+   "latitude": 28.701486,
+   "longitude": 77.192972
+  },
+  {
+   "sno": 59,
+   "name": "Hanuman Mandir Model Town",
+   "latitude": 28.701946,
+   "longitude": 77.194972
+  },
+  {
+   "sno": 60,
+   "name": "Cigratte Wala Bagh Prembari Road",
+   "latitude": 28.698262,
+   "longitude": 77.195418
+  },
+  {
+   "sno": 61,
+   "name": "Khilona Wala Bagh",
+   "latitude": 28.693807,
+   "longitude": 77.193213
+  },
+  {
+   "sno": 62,
+   "name": "Chowki No.-4 Railway XGTK Road Azadpur",
+   "latitude": 28.697816,
+   "longitude": 77.182608
+  },
+  {
+   "sno": 63,
+   "name": "Kaushalpurinear A-Block Railway Line",
+   "latitude": 28.700794,
+   "longitude": 77.179668
+  },
+  {
+   "sno": 64,
+   "name": "Lal Bagh Near Mosque GT Karnal Road Near Vijay Cinema",
+   "latitude": 28.705361,
+   "longitude": 77.179623
+  },
+  {
+   "sno": 65,
+   "name": "Lal Bagh GT Karnal Road",
+   "latitude": 28.703868,
+   "longitude": 77.179368
+  },
+  {
+   "sno": 66,
+   "name": "Lal Bagh Parknear Laxmi Narayan Mandir",
+   "latitude": 28.704635,
+   "longitude": 77.178767
+  },
+  {
+   "sno": 67,
+   "name": "Jhuggies Lal Bagh Azadpur Behind A.T.Mill.",
+   "latitude": 28.705001,
+   "longitude": 77.178153
+  },
+  {
+   "sno": 68,
+   "name": "Mauji Wala Bagh(GTK Road Azadpur)",
+   "latitude": 28.703623,
+   "longitude": 77.180675
+  },
+  {
+   "sno": 69,
+   "name": "JJC Block-38 Shakti Nagar",
+   "latitude": 28.682076,
+   "longitude": 77.190636
+  },
+  {
+   "sno": 70,
+   "name": "JJC Near Ramlila Maidan, Azadpur",
+   "latitude": 28.703275,
+   "longitude": 77.178468
+  },
+  {
+   "sno": 71,
+   "name": "Om Nagar Dhobi Ghat Sangam Park Mahavir Modern School R.P.Bagh",
+   "latitude": 28.689079,
+   "longitude": 77.190735
+  },
+  {
+   "sno": 72,
+   "name": "Kishor Nagarnear R.P.Bagh",
+   "latitude": 28.683727,
+   "longitude": 77.189344
+  },
+  {
+   "sno": 73,
+   "name": "Kabir Nagarnear R.P.Bagh",
+   "latitude": 28.687299,
+   "longitude": 77.187625
+  },
+  {
+   "sno": 74,
+   "name": "Campnear Gurki Mandi Rajpura Village",
+   "latitude": 28.687067,
+   "longitude": 77.19907
+  },
+  {
+   "sno": 75,
+   "name": "Ganda Nalla Gulabi Bagh",
+   "latitude": 28.671001,
+   "longitude": 77.187466
+  },
+  {
+   "sno": 76,
+   "name": "Near FCI Godownnear Under Bridge Shakti Nagar",
+   "latitude": 28.677994,
+   "longitude": 77.192407
+  },
+  {
+   "sno": 77,
+   "name": "Near Roshan Ara Club",
+   "latitude": 28.674253,
+   "longitude": 77.194294
+  },
+  {
+   "sno": 78,
+   "name": "By The Sideof Railway Line Shakti Nagar Godown",
+   "latitude": 28.679723,
+   "longitude": 77.191514
+  },
+  {
+   "sno": 79,
+   "name": "Majnu Ka Tila New Block, Aruna Colony.",
+   "latitude": 28.700143,
+   "longitude": 77.226143
+  },
+  {
+   "sno": 80,
+   "name": "J-Block Majnu Ka Tila, Aruna Colony.",
+   "latitude": 28.698555,
+   "longitude": 77.226313
+  },
+  {
+   "sno": 81,
+   "name": "Old Chnadrawal Civil Lines Majnu Ka Tila",
+   "latitude": 28.695782,
+   "longitude": 77.225829
+  },
+  {
+   "sno": 82,
+   "name": "Tibti Camp Majnu Ka Tila",
+   "latitude": 28.701582,
+   "longitude": 77.228268
+  },
+  {
+   "sno": 83,
+   "name": "Press Area Behind Old Secreteriat",
+   "latitude": 28.690428,
+   "longitude": 77.224623
+  },
+  {
+   "sno": 84,
+   "name": "Behind Petrol Pump Bulward Road Depot No.23",
+   "latitude": 28.668378,
+   "longitude": 77.21229
+  },
+  {
+   "sno": 85,
+   "name": "Bharon Ki Bagchhi Bulward Road",
+   "latitude": 28.669439,
+   "longitude": 77.213898
+  },
+  {
+   "sno": 86,
+   "name": "Madarsa Road Kashmiri Gate",
+   "latitude": 28.666219,
+   "longitude": 77.23247
+  },
+  {
+   "sno": 87,
+   "name": "Fauji Jat Dharamshala Yamuna Bazar",
+   "latitude": 28.660826,
+   "longitude": 77.239525
+  },
+  {
+   "sno": 88,
+   "name": "Madrasi Basti Mori Gate",
+   "latitude": 28.66486,
+   "longitude": 77.220765
+  },
+  {
+   "sno": 89,
+   "name": "Old Gas Factory Near Red Fort",
+   "latitude": 28.660542,
+   "longitude": 77.237898
+  },
+  {
+   "sno": 90,
+   "name": "Old Seema Purinear Creamation Ground& Sun Light Colony",
+   "latitude": 28.678691,
+   "longitude": 77.325571
+  },
+  {
+   "sno": 91,
+   "name": "Pushtabetween Old Seemapuri, DIF Dilshad Garden(Indira Nehru Camp Part-I)",
+   "latitude": 28.681671,
+   "longitude": 77.329987
+  },
+  {
+   "sno": 92,
+   "name": "Block-F New Seema Puri",
+   "latitude": 28.686639,
+   "longitude": 77.326952
+  },
+  {
+   "sno": 93,
+   "name": "Opposite OSPD-Block, New Seema Puri",
+   "latitude": 28.687405,
+   "longitude": 77.326615
+  },
+  {
+   "sno": 94,
+   "name": "Jain Mandir Block-B-1/35 Dilshad Garden",
+   "latitude": 28.685765,
+   "longitude": 77.325817
+  },
+  {
+   "sno": 95,
+   "name": "E-Block Seema Puri",
+   "latitude": 28.686932,
+   "longitude": 77.33039
+  },
+  {
+   "sno": 96,
+   "name": "D-Block New Seema Puri(Part-I)",
+   "latitude": 28.689074,
+   "longitude": 77.329366
+  },
+  {
+   "sno": 97,
+   "name": "D-Block, New Seema Puri Part-II",
+   "latitude": 28.688967,
+   "longitude": 77.33024
+  },
+  {
+   "sno": 98,
+   "name": "Sarhad Puri Road No.64(Near Shanti Samiti)Opposite New Seema Puri Part-II",
+   "latitude": 28.692207,
+   "longitude": 77.326221
+  },
+  {
+   "sno": 99,
+   "name": "Sarhad Puri Road No.64 Near Shanti Simiti Opposite New Seema Puri Part-I",
+   "latitude": 28.693401,
+   "longitude": 77.327085
+  },
+  {
+   "sno": 100,
+   "name": "Road No.64 Tahir Pur(Leprosy Camp)",
+   "latitude": 28.691382,
+   "longitude": 77.32447
+  },
+  {
+   "sno": 101,
+   "name": "New Janta Quaters New Seemapuri(Shanti Samiti)",
+   "latitude": 28.692599,
+   "longitude": 77.326054
+  },
+  {
+   "sno": 102,
+   "name": "Aradhik Nagar, Dehi U.P.Border G.T.Road Shahdara",
+   "latitude": 28.674614,
+   "longitude": 77.323697
+  },
+  {
+   "sno": 103,
+   "name": "A& B-Block Jhilmil Industrial Area Raj Nagar Sonia Colony(Sonia Camp)",
+   "latitude": 28.67501,
+   "longitude": 77.32151
+  },
+  {
+   "sno": 104,
+   "name": "A& B-Block Jhilmil Industrial Area Raj Nagar Sonia Colony(Dr.Ambedekar Camp)",
+   "latitude": 28.673842,
+   "longitude": 77.314864
+  },
+  {
+   "sno": 105,
+   "name": "A& B-Block Jhilmil Industrial Area Raj Nagar Sonia Colony(Rajiv Camp)",
+   "latitude": 28.674091,
+   "longitude": 77.319511
+  },
+  {
+   "sno": 106,
+   "name": "Block-B Jhilmil Colony(Balmiki Basti)",
+   "latitude": 28.671177,
+   "longitude": 77.310401
+  },
+  {
+   "sno": 107,
+   "name": "Behind Krishna Market Jhilmil Colony",
+   "latitude": 28.668756,
+   "longitude": 77.307079
+  },
+  {
+   "sno": 108,
+   "name": "H-Block Kalender Colony, Dilshad Garden Part-I",
+   "latitude": 28.680173,
+   "longitude": 77.319818
+  },
+  {
+   "sno": 109,
+   "name": "Dilshad Vihar Julfi Bengal Dilshad Garden Shahdara",
+   "latitude": 28.679805,
+   "longitude": 77.319556
+  },
+  {
+   "sno": 110,
+   "name": "H-Block Kalender Colony, Dilshad Garden Part-II",
+   "latitude": 28.679537,
+   "longitude": 77.320307
+  },
+  {
+   "sno": 111,
+   "name": "E-39, Jhugiee Colony Dilshad Garden",
+   "latitude": 28.677358,
+   "longitude": 77.305335
+  },
+  {
+   "sno": 112,
+   "name": "Deepak Colony Dilshad Garden Behind D.D.A.Office",
+   "latitude": 28.678607,
+   "longitude": 77.320414
+  },
+  {
+   "sno": 113,
+   "name": "Dilshad Garden E-120 Near Gurudwara",
+   "latitude": 28.678609,
+   "longitude": 77.316625
+  },
+  {
+   "sno": 114,
+   "name": "Dr.Rajinder Parsad Colonyat Dilshad Garden",
+   "latitude": 28.678243,
+   "longitude": 77.315838
+  },
+  {
+   "sno": 115,
+   "name": "Ram Nagar Lal Bagh, Khand-B Railway Phatak, Shahdara",
+   "latitude": 28.67511,
+   "longitude": 77.298252
+  },
+  {
+   "sno": 116,
+   "name": "Lal Bagh Shriram Nagar, A-Block G.T Road Shahdara",
+   "latitude": 28.674517,
+   "longitude": 77.294674
+  },
+  {
+   "sno": 117,
+   "name": "Gram Khera Mansarover Park",
+   "latitude": 28.677004,
+   "longitude": 77.301755
+  },
+  {
+   "sno": 118,
+   "name": "Tahir Pur Road No.64",
+   "latitude": 28.68458,
+   "longitude": 77.317274
+  },
+  {
+   "sno": 119,
+   "name": "C-Block, Nand Nagri",
+   "latitude": 28.693491,
+   "longitude": 77.301891
+  },
+  {
+   "sno": 120,
+   "name": "Railway Quarters Colony Mandoli Road Delhi",
+   "latitude": 28.694468,
+   "longitude": 77.301909
+  },
+  {
+   "sno": 121,
+   "name": "Block-D 1& 2 Nand Nagari",
+   "latitude": 28.697325,
+   "longitude": 77.302022
+  },
+  {
+   "sno": 122,
+   "name": "E-2 Block Nand Nagri",
+   "latitude": 28.695937,
+   "longitude": 77.310605
+  },
+  {
+   "sno": 123,
+   "name": "Block-C Sanjay Camp Gokal Puri-I",
+   "latitude": 28.703356,
+   "longitude": 77.285981
+  },
+  {
+   "sno": 124,
+   "name": "F 1 Block, Sunder Nagari",
+   "latitude": 28.696689,
+   "longitude": 77.316041
+  },
+  {
+   "sno": 125,
+   "name": "F 2 Block Sunder Nagari",
+   "latitude": 28.695372,
+   "longitude": 77.31824
+  },
+  {
+   "sno": 126,
+   "name": "Block.G-3, G-5 Sunder Nagri",
+   "latitude": 28.69331,
+   "longitude": 77.317625
+  },
+  {
+   "sno": 127,
+   "name": "Indira Camp Flood Deptt.Office Kishan Kunj Extension",
+   "latitude": 28.641465,
+   "longitude": 77.269645
+  },
+  {
+   "sno": 128,
+   "name": "Sayeed Peerwalaki Mazar, Ramesh Park Laxmi Nagar",
+   "latitude": 28.636216,
+   "longitude": 77.27051
+  },
+  {
+   "sno": 129,
+   "name": "Harizan Samiti Near Dispensary Mangal Bazar Mandavali",
+   "latitude": 28.630242,
+   "longitude": 77.290277
+  },
+  {
+   "sno": 130,
+   "name": "Sonia Campnear Dispensary Mandavali",
+   "latitude": 28.628895,
+   "longitude": 77.28854
+  },
+  {
+   "sno": 131,
+   "name": "Infrontof Block-12 Geeta Colony",
+   "latitude": 28.649496,
+   "longitude": 77.273045
+  },
+  {
+   "sno": 132,
+   "name": "Rani Garden Opposite Hr.Sec.School Shastri Nagar",
+   "latitude": 28.649249,
+   "longitude": 77.27253
+  },
+  {
+   "sno": 133,
+   "name": "Shakar Pur Chungi Thokar 16 Lalita Park, Laxmi Nagar& Shamshan Ghat Thokar No.16(For Pocketat Thokar No.16)",
+   "latitude": 28.655278,
+   "longitude": 77.26508
+  },
+  {
+   "sno": 134,
+   "name": "JJ Indira Camp Budh Bazar Block-B Geeta Colony",
+   "latitude": 28.65624,
+   "longitude": 77.268788
+  },
+  {
+   "sno": 135,
+   "name": "New Sanjay Amar Colony Vishwas Nagar",
+   "latitude": 28.659384,
+   "longitude": 77.293653
+  },
+  {
+   "sno": 136,
+   "name": "18 Quarters Vishwas Nagar.",
+   "latitude": 28.667955,
+   "longitude": 77.301314
+  },
+  {
+   "sno": 137,
+   "name": "Jhuggies Adjoining Railway Line Anand Vihar",
+   "latitude": 28.653973,
+   "longitude": 77.316748
+  },
+  {
+   "sno": 138,
+   "name": "C-Block, Jaina Tower Preet Vihar",
+   "latitude": 28.638805,
+   "longitude": 77.292515
+  },
+  {
+   "sno": 139,
+   "name": "EASTGURUANGADNAGARD, NEARRADHUPLACE",
+   "latitude": 28.640698,
+   "longitude": 77.283327
+  },
+  {
+   "sno": 140,
+   "name": "Rajiv Gandhi Camp Chitra Vihar",
+   "latitude": 28.643446,
+   "longitude": 77.290329
+  },
+  {
+   "sno": 141,
+   "name": "Madhu Vihar Phase-Ibehind Patpar Ganj Depot",
+   "latitude": 28.63424,
+   "longitude": 77.307046
+  },
+  {
+   "sno": 142,
+   "name": "Indira Camp Madhu Vihar Phase-II",
+   "latitude": 28.633336,
+   "longitude": 77.307738
+  },
+  {
+   "sno": 143,
+   "name": "CD-Block Sabzi Mandi Jahangir Puri",
+   "latitude": 28.731159,
+   "longitude": 77.171115
+  },
+  {
+   "sno": 144,
+   "name": "CD Block Samaj Kalyan Samiti Jhangir Puri",
+   "latitude": 28.728916,
+   "longitude": 77.172743
+  },
+  {
+   "sno": 145,
+   "name": "K-Block ITI Jahangir Puri",
+   "latitude": 28.733954,
+   "longitude": 77.170742
+  },
+  {
+   "sno": 146,
+   "name": "K-Block, Opposite-656 MIG Flats Jahangir Puri",
+   "latitude": 28.734868,
+   "longitude": 77.16818
+  },
+  {
+   "sno": 147,
+   "name": "J& K-Block Lakhi Park Jahangir Puri",
+   "latitude": 28.731689,
+   "longitude": 77.165879
+  },
+  {
+   "sno": 148,
+   "name": "Bihari Samaj Vishwanath Puri(Part-B)Kalander Colonynear Bhalswa Dairy",
+   "latitude": 28.741158,
+   "longitude": 77.160887
+  },
+  {
+   "sno": 149,
+   "name": "Basant Dada Patil Cluster(Part-A)Kalander Colony Near Bhalswa Dairy",
+   "latitude": 28.739823,
+   "longitude": 77.161777
+  },
+  {
+   "sno": 150,
+   "name": "Kalander Colony Part-Cnear Bhalswa Dairy",
+   "latitude": 28.740568,
+   "longitude": 77.161672
+  },
+  {
+   "sno": 151,
+   "name": "At Sanjay Colony Gali No.9 Samai Pur Badli.",
+   "latitude": 28.749025,
+   "longitude": 77.148195
+  },
+  {
+   "sno": 152,
+   "name": "Bhagwan Pura",
+   "latitude": 28.744409,
+   "longitude": 77.148226
+  },
+  {
+   "sno": 153,
+   "name": "Balmiki JJ Cluster Samai Pur Badli",
+   "latitude": 28.74025,
+   "longitude": 77.144258
+  },
+  {
+   "sno": 154,
+   "name": "Railway Phatak No.8 Badli",
+   "latitude": 28.73801,
+   "longitude": 77.145549
+  },
+  {
+   "sno": 155,
+   "name": "JJ Clusterat Badli Village",
+   "latitude": 28.735244,
+   "longitude": 77.140672
+  },
+  {
+   "sno": 156,
+   "name": "Motia Khan Near Community Hall",
+   "latitude": 28.650423,
+   "longitude": 77.209652
+  },
+  {
+   "sno": 157,
+   "name": "Rajiv Gandhi Camp Aram Bagh",
+   "latitude": 28.643392,
+   "longitude": 77.207059
+  },
+  {
+   "sno": 158,
+   "name": "Near Udasin Mandir Aram Bagh",
+   "latitude": 28.64387,
+   "longitude": 77.204808
+  },
+  {
+   "sno": 159,
+   "name": "Sangam Camp Behind JD Kapoor Hospital, Pandav Nagar",
+   "latitude": 28.650144,
+   "longitude": 77.148924
+  },
+  {
+   "sno": 160,
+   "name": "Kathputli Colony",
+   "latitude": 28.652882,
+   "longitude": 77.152939
+  },
+  {
+   "sno": 161,
+   "name": "JJ Camp Y-Block Loha Mandi Near Dharam Kanta Sanjivan Naraina",
+   "latitude": 28.639207,
+   "longitude": 77.141181
+  },
+  {
+   "sno": 162,
+   "name": "X-Block Nariana Loha Mandi",
+   "latitude": 28.637851,
+   "longitude": 77.141385
+  },
+  {
+   "sno": 163,
+   "name": "Gas Godown Toda Pur",
+   "latitude": 28.623492,
+   "longitude": 77.157045
+  },
+  {
+   "sno": 164,
+   "name": "Toda Pur Village Bihari Colony",
+   "latitude": 28.622691,
+   "longitude": 77.16126
+  },
+  {
+   "sno": 165,
+   "name": "Rattanpuri Chowk New Rajinder Nagar",
+   "latitude": 28.639283,
+   "longitude": 77.174643
+  },
+  {
+   "sno": 166,
+   "name": "C-Block Budh Nagar Inder Puri",
+   "latitude": 28.634438,
+   "longitude": 77.142067
+  },
+  {
+   "sno": 167,
+   "name": "Indira Camp A-85 Naraina Industrial Area Phase-I",
+   "latitude": 28.635074,
+   "longitude": 77.135621
+  },
+  {
+   "sno": 168,
+   "name": "JJ Camp Sonia Gandhi Naraina",
+   "latitude": 28.633411,
+   "longitude": 77.135276
+  },
+  {
+   "sno": 169,
+   "name": "Indira Camp B-212 Narina Industrial Area Phase-I",
+   "latitude": 28.63296,
+   "longitude": 77.135225
+  },
+  {
+   "sno": 170,
+   "name": "Indira Camp B-97/3 Naraina Industrial Area Phase-I",
+   "latitude": 28.633214,
+   "longitude": 77.133932
+  },
+  {
+   "sno": 171,
+   "name": "Rajiv Gandhi Camp C-Block Naraina Vihar",
+   "latitude": 28.624659,
+   "longitude": 77.14393
+  },
+  {
+   "sno": 172,
+   "name": "Z-Block Adjoining Loha Mandi Naraina Industrial Area",
+   "latitude": 28.637913,
+   "longitude": 77.140696
+  },
+  {
+   "sno": 173,
+   "name": "Rajiv Gandhi Sanjay Gandhi Camp Naraina Industrial Area",
+   "latitude": 28.630533,
+   "longitude": 77.136547
+  },
+  {
+   "sno": 174,
+   "name": "Mazdoor Kalyan Camp A-Block Ganda Nalla Budh Nagar Near Inder Puri Nagar Inder Puri",
+   "latitude": 28.635481,
+   "longitude": 77.145201
+  },
+  {
+   "sno": 175,
+   "name": "Mazdoor Kalyan Camp D-Block Ganda Nalla Budh Nagar Near Inder Puri Nagar",
+   "latitude": 28.636792,
+   "longitude": 77.143402
+  },
+  {
+   "sno": 176,
+   "name": "Mazdoor Kalyan Camp B-Block Ganda Nalla Budh Nagar Near Inder Puri Nagar Inder Puri",
+   "latitude": 28.633803,
+   "longitude": 77.146201
+  },
+  {
+   "sno": 177,
+   "name": "E-Block Budh Nagar Inder Puri",
+   "latitude": 28.632447,
+   "longitude": 77.142471
+  },
+  {
+   "sno": 178,
+   "name": "Shashtri Camp Railway Line F-Block Budh Nagar Inder Puri New Delhi",
+   "latitude": 28.630264,
+   "longitude": 77.142994
+  },
+  {
+   "sno": 179,
+   "name": "Shashtripark JJC Halt Line Inder Puri",
+   "latitude": 28.628695,
+   "longitude": 77.143381
+  },
+  {
+   "sno": 180,
+   "name": "Dairy Wala Bagh Paschim Vihar",
+   "latitude": 28.662394,
+   "longitude": 77.095417
+  },
+  {
+   "sno": 181,
+   "name": "In Park Opposite Kothi No.40 SBI Nagar, (Janmastmi Park Paschim Vihar)",
+   "latitude": 28.661933,
+   "longitude": 77.093066
+  },
+  {
+   "sno": 182,
+   "name": "JJCB-Block Meera Baghonthe Sideof N.G.Drain Paschim Vihar",
+   "latitude": 28.658197,
+   "longitude": 77.093953
+  },
+  {
+   "sno": 183,
+   "name": "JJ Cluster BG-7 Paschim Vihar Near BSES Office",
+   "latitude": 28.664133,
+   "longitude": 77.105121
+  },
+  {
+   "sno": 184,
+   "name": "Saheed Bhagat Singh JJC Paschim Puri Near Shamshan Ghat",
+   "latitude": 28.661611,
+   "longitude": 77.1102
+  },
+  {
+   "sno": 185,
+   "name": "Opposite BG-6 Block Paschim Vihar Along NG Drain",
+   "latitude": 28.661896,
+   "longitude": 77.107666
+  },
+  {
+   "sno": 186,
+   "name": "Dera Gaji Khan Tarun Enclave Pitam Pura Parwan Road",
+   "latitude": 28.692777,
+   "longitude": 77.115813
+  },
+  {
+   "sno": 187,
+   "name": "Rang Mahal Housing Society Pitampura.",
+   "latitude": 28.6916,
+   "longitude": 77.124717
+  },
+  {
+   "sno": 188,
+   "name": "Near Railway Colony Shakur Basti",
+   "latitude": 28.678394,
+   "longitude": 77.127145
+  },
+  {
+   "sno": 189,
+   "name": "JJ Cluster Adjoining Punjab Migrant Relief Camp Peera Garhi",
+   "latitude": 28.682948,
+   "longitude": 77.095989
+  },
+  {
+   "sno": 190,
+   "name": "Suraj Park Samai Pur Badli",
+   "latitude": 28.743634,
+   "longitude": 77.137733
+  },
+  {
+   "sno": 191,
+   "name": "At Khaada Basti Suraj Park-Bat Bawana Road Samai Pur Badli.",
+   "latitude": 28.741114,
+   "longitude": 77.13759
+  },
+  {
+   "sno": 192,
+   "name": "At Industrial Area Badli Phase-II.",
+   "latitude": 28.748108,
+   "longitude": 77.130368
+  },
+  {
+   "sno": 193,
+   "name": "Jal Vihar Railway Line Shiv Mandir Marg Lajpat Nagar",
+   "latitude": 28.577877,
+   "longitude": 77.248232
+  },
+  {
+   "sno": 194,
+   "name": "Madrasi Basti Near Railway Line Jal Vihar",
+   "latitude": 28.577839,
+   "longitude": 77.249608
+  },
+  {
+   "sno": 195,
+   "name": "Vijay Camp Housing Factory Jal Vihar Lajpat Nagar.",
+   "latitude": 28.574988,
+   "longitude": 77.251713
+  },
+  {
+   "sno": 196,
+   "name": "Indira Camp MCD School Block-10 Nehru Nagar",
+   "latitude": 28.57167,
+   "longitude": 77.251251
+  },
+  {
+   "sno": 197,
+   "name": "Block.8 Nehru Nagar",
+   "latitude": 28.570224,
+   "longitude": 77.251527
+  },
+  {
+   "sno": 198,
+   "name": "Partap Camp Behind Gurudwara Nehru Nagar.",
+   "latitude": 28.56886,
+   "longitude": 77.251958
+  },
+  {
+   "sno": 199,
+   "name": "Garhi Mohalla Summon Bazar, Bhogal",
+   "latitude": 28.580084,
+   "longitude": 77.251041
+  },
+  {
+   "sno": 200,
+   "name": "Behind PGDAV College Nehru Nagar Block-8& Adivasi Camp",
+   "latitude": 28.569171,
+   "longitude": 77.250224
+  },
+  {
+   "sno": 201,
+   "name": "LNJP Hospital Ranjeet Road",
+   "latitude": 28.639672,
+   "longitude": 77.232041
+  },
+  {
+   "sno": 202,
+   "name": "64 Khamba Dhobi Gaht No.26, J.N.Marg",
+   "latitude": 28.637363,
+   "longitude": 77.232755
+  },
+  {
+   "sno": 203,
+   "name": "Shakoor Ki Dandi(Basti Khawza Meer)",
+   "latitude": 28.639972,
+   "longitude": 77.229171
+  },
+  {
+   "sno": 204,
+   "name": "Dhobi Ghat, 9, 11, 12 Press Road",
+   "latitude": 28.638349,
+   "longitude": 77.233863
+  },
+  {
+   "sno": 205,
+   "name": "Eastof Chausath Khamba Meer Dard Road",
+   "latitude": 28.637316,
+   "longitude": 77.233498
+  },
+  {
+   "sno": 206,
+   "name": "Dhobi Ghat No.27 Near Moulana Azad Medical College Meer Dard Road",
+   "latitude": 28.637828,
+   "longitude": 77.233671
+  },
+  {
+   "sno": 207,
+   "name": "Mahavat Khan Road Dhobi Ghat No 28.",
+   "latitude": 28.628692,
+   "longitude": 77.237871
+  },
+  {
+   "sno": 208,
+   "name": "Near Shamshan Bhumi Hastsal",
+   "latitude": 28.632463,
+   "longitude": 77.06258
+  },
+  {
+   "sno": 209,
+   "name": "Rajiv Gandhi Camp Along Nalla Near Shamshan Bhumi Hastsal",
+   "latitude": 28.63311,
+   "longitude": 77.06287
+  },
+  {
+   "sno": 210,
+   "name": "Indira Camp No.6 Vikas Puri",
+   "latitude": 28.643518,
+   "longitude": 77.070828
+  },
+  {
+   "sno": 211,
+   "name": "Indira Camp No.-5 Vikas Puri",
+   "latitude": 28.639306,
+   "longitude": 77.06407
+  },
+  {
+   "sno": 212,
+   "name": "JJC Indira Camp No.5 Part-II Vikas Puri",
+   "latitude": 28.637795,
+   "longitude": 77.061517
+  },
+  {
+   "sno": 213,
+   "name": "Indira Camp No.-3 Vikas Puri",
+   "latitude": 28.640878,
+   "longitude": 77.06846
+  },
+  {
+   "sno": 214,
+   "name": "JJC Near Dharmarth Eye Hospital",
+   "latitude": 28.681908,
+   "longitude": 77.15074
+  },
+  {
+   "sno": 215,
+   "name": "Opposite C-4 Lawerance Road.",
+   "latitude": 28.683522,
+   "longitude": 77.151504
+  },
+  {
+   "sno": 216,
+   "name": "Haryana Power House",
+   "latitude": 28.67442,
+   "longitude": 77.145099
+  },
+  {
+   "sno": 217,
+   "name": "Golden Park",
+   "latitude": 28.672701,
+   "longitude": 77.151733
+  },
+  {
+   "sno": 218,
+   "name": "B-46 Lawernce Road",
+   "latitude": 28.680709,
+   "longitude": 77.14929
+  },
+  {
+   "sno": 219,
+   "name": "B-Block Industrial Area Behind Shiv Mandir Lawrence Road",
+   "latitude": 28.681474,
+   "longitude": 77.144365
+  },
+  {
+   "sno": 220,
+   "name": "C-3 Lawerance Road",
+   "latitude": 28.688628,
+   "longitude": 77.156504
+  },
+  {
+   "sno": 221,
+   "name": "Near MCD Delhi Jal Board Office Kanhiya Nagar Crossing",
+   "latitude": 28.683196,
+   "longitude": 77.163651
+  },
+  {
+   "sno": 222,
+   "name": "HCL Factory Shakur Pur",
+   "latitude": 28.691004,
+   "longitude": 77.14824
+  },
+  {
+   "sno": 223,
+   "name": "Sant Ravi Dass Camp L-Block, Shakur Pur.",
+   "latitude": 28.689854,
+   "longitude": 77.141409
+  },
+  {
+   "sno": 224,
+   "name": "Near Kohat Enclave Pitam Pura",
+   "latitude": 28.698259,
+   "longitude": 77.13788
+  },
+  {
+   "sno": 225,
+   "name": "Indira Camp F-Block Shakur Pur",
+   "latitude": 28.687593,
+   "longitude": 77.151232
+  },
+  {
+   "sno": 226,
+   "name": "Indira Gandhi Camp Maya Puri Chowck Block-C Mansorver Garden",
+   "latitude": 28.638136,
+   "longitude": 77.130359
+  },
+  {
+   "sno": 227,
+   "name": "DI Block, Mansorver Garden",
+   "latitude": 28.641283,
+   "longitude": 77.132104
+  },
+  {
+   "sno": 228,
+   "name": "Kailash Park Basai Dara Pur Moti Nagar.",
+   "latitude": 28.65395,
+   "longitude": 77.134638
+  },
+  {
+   "sno": 229,
+   "name": "Natraj Cinema Backof Nalla Sudama Puri Moti Nagar.",
+   "latitude": 28.657679,
+   "longitude": 77.137997
+  },
+  {
+   "sno": 230,
+   "name": "Block A& B Sudershan Park Nalla Moti Nagar.",
+   "latitude": 28.660486,
+   "longitude": 77.136709
+  },
+  {
+   "sno": 231,
+   "name": "Block-F Near Nalla Sudeshkar Park Moti Nagar",
+   "latitude": 28.660801,
+   "longitude": 77.129887
+  },
+  {
+   "sno": 232,
+   "name": "Ram Chander Park F-Block Moti Nagar",
+   "latitude": 28.665743,
+   "longitude": 77.136618
+  },
+  {
+   "sno": 233,
+   "name": "Road No.-7 Leather Factory East Punjabi Bagh NG Drain",
+   "latitude": 28.667702,
+   "longitude": 77.146239
+  },
+  {
+   "sno": 234,
+   "name": "Block-19, 20 Kalyan Puri",
+   "latitude": 28.614171,
+   "longitude": 77.311791
+  },
+  {
+   "sno": 235,
+   "name": "JJC Block-18 Indira Camp Kalyan Puri",
+   "latitude": 28.615877,
+   "longitude": 77.317353
+  },
+  {
+   "sno": 236,
+   "name": "Indira Camp Block-11, 12 Kalyan Puri",
+   "latitude": 28.61508,
+   "longitude": 77.31488
+  },
+  {
+   "sno": 237,
+   "name": "Block-1, 6, 7 Khichripurnear Gaji Pur Drain-II",
+   "latitude": 28.616865,
+   "longitude": 77.320734
+  },
+  {
+   "sno": 238,
+   "name": "Bus Stand Khichripur Block-13, 14",
+   "latitude": 28.61883,
+   "longitude": 77.314987
+  },
+  {
+   "sno": 239,
+   "name": "Mullacolony, Village Gharoli",
+   "latitude": 28.619563,
+   "longitude": 77.334037
+  },
+  {
+   "sno": 240,
+   "name": "Hr.Sec.Schoolbehind Patpar Ganj",
+   "latitude": 28.612983,
+   "longitude": 77.291765
+  },
+  {
+   "sno": 241,
+   "name": "Pandit Bismil Camp Shashi Garden Patpar Ganj",
+   "latitude": 28.611936,
+   "longitude": 77.29258
+  },
+  {
+   "sno": 242,
+   "name": "NH-24, Patpar Ganj(Nehru Camp)",
+   "latitude": 28.618732,
+   "longitude": 77.290141
+  },
+  {
+   "sno": 243,
+   "name": "D-Block, West Vinod Nagar.",
+   "latitude": 28.624406,
+   "longitude": 77.301824
+  },
+  {
+   "sno": 244,
+   "name": "J-Block, East Vinod Nagar",
+   "latitude": 28.622139,
+   "longitude": 77.303589
+  },
+  {
+   "sno": 245,
+   "name": "Jai Bharti Camp East Vinod Nagar",
+   "latitude": 28.62102,
+   "longitude": 77.309219
+  },
+  {
+   "sno": 246,
+   "name": "Indira Jhugie Jhompri Camp Kalyanvas Khichripur",
+   "latitude": 28.61929,
+   "longitude": 77.313114
+  },
+  {
+   "sno": 247,
+   "name": "Block 6, 7, 8 Khichri Pur Near Gazi Pur Drain Phase-II",
+   "latitude": 28.62333,
+   "longitude": 77.318436
+  },
+  {
+   "sno": 248,
+   "name": "Sangarsh Morcha, Ravidas Camp Pandav Nagar Mother Diary",
+   "latitude": 28.6199,
+   "longitude": 77.286003
+  },
+  {
+   "sno": 249,
+   "name": "C-2/11 Maya Puri Phase.II.",
+   "latitude": 28.62155,
+   "longitude": 77.122244
+  },
+  {
+   "sno": 250,
+   "name": "WZ-E Block Rewari Railway Line Maya Puri",
+   "latitude": 28.617658,
+   "longitude": 77.119683
+  },
+  {
+   "sno": 251,
+   "name": "Pili Kothi Hari Nagar, Ghanta Ghar",
+   "latitude": 28.623023,
+   "longitude": 77.114794
+  },
+  {
+   "sno": 252,
+   "name": "WZB-Blockalong Rewari Railway Line, Maya Puri",
+   "latitude": 28.624303,
+   "longitude": 77.125684
+  },
+  {
+   "sno": 253,
+   "name": "Plot No.A-11& 12 Maya Puri",
+   "latitude": 28.632339,
+   "longitude": 77.127875
+  },
+  {
+   "sno": 254,
+   "name": "WH-58-59, Maya Puri.",
+   "latitude": 28.627687,
+   "longitude": 77.123038
+  },
+  {
+   "sno": 255,
+   "name": "Backof Commercial Center Mayapuri",
+   "latitude": 28.63051,
+   "longitude": 77.125559
+  },
+  {
+   "sno": 256,
+   "name": "C-76 Maya Puri",
+   "latitude": 28.621242,
+   "longitude": 77.120269
+  },
+  {
+   "sno": 257,
+   "name": "A-34/A Maya Puri",
+   "latitude": 28.623401,
+   "longitude": 77.120631
+  },
+  {
+   "sno": 258,
+   "name": "C-3/13 Maya Puri.",
+   "latitude": 28.621466,
+   "longitude": 77.122356
+  },
+  {
+   "sno": 259,
+   "name": "C-200 Maya Puri Phase II.",
+   "latitude": 28.619784,
+   "longitude": 77.116832
+  },
+  {
+   "sno": 260,
+   "name": "C-187 Maya Puri Phase.II.",
+   "latitude": 28.620087,
+   "longitude": 77.117259
+  },
+  {
+   "sno": 261,
+   "name": "W-228 Maya Puri Phase.II.",
+   "latitude": 28.619061,
+   "longitude": 77.117063
+  },
+  {
+   "sno": 262,
+   "name": "B-46 Maya Puri",
+   "latitude": 28.626258,
+   "longitude": 77.125816
+  },
+  {
+   "sno": 263,
+   "name": "B-127 Maya Puri",
+   "latitude": 28.626364,
+   "longitude": 77.126776
+  },
+  {
+   "sno": 264,
+   "name": "AO Block, Shalimar Bagh",
+   "latitude": 28.700529,
+   "longitude": 77.158097
+  },
+  {
+   "sno": 265,
+   "name": "Sanjay Sudhar Samiti Camp GP-Block Pitam Pura",
+   "latitude": 28.700447,
+   "longitude": 77.148662
+  },
+  {
+   "sno": 266,
+   "name": "Ambedeker Camp U& V Paschim Shalimar Bagh",
+   "latitude": 28.710479,
+   "longitude": 77.151805
+  },
+  {
+   "sno": 267,
+   "name": "Block.C, Pocket A Shalimar Bagh",
+   "latitude": 28.712523,
+   "longitude": 77.148842
+  },
+  {
+   "sno": 268,
+   "name": "Opposite Old Creamation Ground Near Shalimar Bagh Village Shalimar Bagh",
+   "latitude": 28.720572,
+   "longitude": 77.159847
+  },
+  {
+   "sno": 269,
+   "name": "Indira Colony Near Railway Phatak No.3 Shalimar Bagh",
+   "latitude": 28.717951,
+   "longitude": 77.162898
+  },
+  {
+   "sno": 270,
+   "name": "A-A Block Shalimar Bagh Kela Godown",
+   "latitude": 28.710239,
+   "longitude": 77.169734
+  },
+  {
+   "sno": 271,
+   "name": "Indira Colony BG-1 Shalimar Bagh",
+   "latitude": 28.714244,
+   "longitude": 77.161353
+  },
+  {
+   "sno": 272,
+   "name": "Ekta Camp AU-Block, near Varun Niketen Pitam Pura",
+   "latitude": 28.720091,
+   "longitude": 77.142628
+  },
+  {
+   "sno": 273,
+   "name": "JJ Clusteron Outer Ring Road No.-26 Badli Morh Shiftedfrom Rohini Sector-XIV Haiderpur",
+   "latitude": 28.726994,
+   "longitude": 77.148285
+  },
+  {
+   "sno": 274,
+   "name": "Dr.Ambedkar JJC Outer Ring Road More",
+   "latitude": 28.728274,
+   "longitude": 77.147973
+  },
+  {
+   "sno": 275,
+   "name": "In Frontof Ayurvedic Hospital Haiderpur.",
+   "latitude": 28.721524,
+   "longitude": 77.15066
+  },
+  {
+   "sno": 276,
+   "name": "JJ Camp Indira Camp No-II Vikas Puri",
+   "latitude": 28.6447,
+   "longitude": 77.08057
+  },
+  {
+   "sno": 277,
+   "name": "Krishna Park Vikas Puri Indira Camp No.4",
+   "latitude": 28.632217,
+   "longitude": 77.077364
+  },
+  {
+   "sno": 278,
+   "name": "Shanker Garden B-Block Vikas Puri",
+   "latitude": 28.629787,
+   "longitude": 77.072338
+  },
+  {
+   "sno": 279,
+   "name": "Double Story Sweeper Tenements Tilak Nagar",
+   "latitude": 28.64147,
+   "longitude": 77.084459
+  },
+  {
+   "sno": 280,
+   "name": "Near Harijan Colony Tilak Nagar",
+   "latitude": 28.644015,
+   "longitude": 77.092154
+  },
+  {
+   "sno": 281,
+   "name": "Indira Colony Chaukhandi Road Opposite Yog Mandirand Jagat Mata Kushat Ashram",
+   "latitude": 28.642702,
+   "longitude": 77.093993
+  },
+  {
+   "sno": 282,
+   "name": "Tilak Nagar Along Subhash Nagar Drain",
+   "latitude": 28.64153,
+   "longitude": 77.106103
+  },
+  {
+   "sno": 283,
+   "name": "JJC Sabazi Mandi Rajiv Gandhi Camp Mangla Puri Phase.II",
+   "latitude": 28.592125,
+   "longitude": 77.089216
+  },
+  {
+   "sno": 284,
+   "name": "Indira Camp Surrounded By Block-28, 29& 19 Trilok Puri Site-I",
+   "latitude": 28.603441,
+   "longitude": 77.30669
+  },
+  {
+   "sno": 285,
+   "name": "Sanjay Camp Block-27 Trilok Puri",
+   "latitude": 28.605637,
+   "longitude": 77.30591
+  },
+  {
+   "sno": 286,
+   "name": "Indira Nagar Block-22, 23 Trilok Puri",
+   "latitude": 28.607614,
+   "longitude": 77.305894
+  },
+  {
+   "sno": 287,
+   "name": "Sanjay Shakha Camp Block-15, 16 Trilok Puri",
+   "latitude": 28.608389,
+   "longitude": 77.308597
+  },
+  {
+   "sno": 288,
+   "name": "Shastri Camp Block-6, 7& 8 Trilok Puri",
+   "latitude": 28.608878,
+   "longitude": 77.313223
+  },
+  {
+   "sno": 289,
+   "name": "Indira Camp Block-1, 2& 3 Trilok Puri",
+   "latitude": 28.610292,
+   "longitude": 77.315685
+  },
+  {
+   "sno": 290,
+   "name": "Block-17& 21 Kalyan Puri",
+   "latitude": 28.61683,
+   "longitude": 77.311617
+  },
+  {
+   "sno": 291,
+   "name": "Rajiv Camp Block-26 Trilok Puri",
+   "latitude": 28.608054,
+   "longitude": 77.304594
+  },
+  {
+   "sno": 292,
+   "name": "Harijan Camp Block-31 Tirlok Puri",
+   "latitude": 28.5986,
+   "longitude": 77.305573
+  },
+  {
+   "sno": 293,
+   "name": "Ambedekar Camp Block-32& 34 Trilok Puri",
+   "latitude": 28.601186,
+   "longitude": 77.304116
+  },
+  {
+   "sno": 294,
+   "name": "P-1 Block Sultanpuri",
+   "latitude": 28.701549,
+   "longitude": 77.085474
+  },
+  {
+   "sno": 295,
+   "name": "Y-Block Mangol Puri",
+   "latitude": 28.700769,
+   "longitude": 77.08675
+  },
+  {
+   "sno": 296,
+   "name": "C-7 Block Sultanpuri",
+   "latitude": 28.700009,
+   "longitude": 77.081941
+  },
+  {
+   "sno": 297,
+   "name": "C-2 Block Sultan Puri",
+   "latitude": 28.70113,
+   "longitude": 77.079068
+  },
+  {
+   "sno": 298,
+   "name": "C-Block, Near Main Bus Stand Sultanpuri.",
+   "latitude": 28.701007,
+   "longitude": 77.075561
+  },
+  {
+   "sno": 299,
+   "name": "D-4 Block Sultanpuri",
+   "latitude": 28.699299,
+   "longitude": 77.074788
+  },
+  {
+   "sno": 300,
+   "name": "D-1 Machhi Chowck Sultanpuri",
+   "latitude": 28.696115,
+   "longitude": 77.073569
+  },
+  {
+   "sno": 301,
+   "name": "C-10 Sultanpuri(Potters Huts)",
+   "latitude": 28.700403,
+   "longitude": 77.08422
+  },
+  {
+   "sno": 302,
+   "name": "B-1 Mangal Bazar Sultanpuri",
+   "latitude": 28.695709,
+   "longitude": 77.074226
+  },
+  {
+   "sno": 303,
+   "name": "E-6 Block Sultanpuri",
+   "latitude": 28.692699,
+   "longitude": 77.069408
+  },
+  {
+   "sno": 304,
+   "name": "HGI Labour Colony Sultanpuri",
+   "latitude": 28.68673,
+   "longitude": 77.068568
+  },
+  {
+   "sno": 305,
+   "name": "F-7 Sultanpuri",
+   "latitude": 28.688682,
+   "longitude": 77.066814
+  },
+  {
+   "sno": 306,
+   "name": "Opposite F-7 Sultanpuri",
+   "latitude": 28.687864,
+   "longitude": 77.066359
+  },
+  {
+   "sno": 307,
+   "name": "Pankaj Garden Goela Dairy",
+   "latitude": 28.578841,
+   "longitude": 77.030751
+  },
+  {
+   "sno": 308,
+   "name": "JJ Cat Goela Dairy Najafgarh",
+   "latitude": 28.579089,
+   "longitude": 77.023145
+  },
+  {
+   "sno": 309,
+   "name": "Gali No.7 Mahavir Enclave",
+   "latitude": 28.598064,
+   "longitude": 77.085055
+  },
+  {
+   "sno": 310,
+   "name": "West Sagar Pur",
+   "latitude": 28.603415,
+   "longitude": 77.101739
+  },
+  {
+   "sno": 311,
+   "name": "Opposite MCD Store Naseer Pur Road Mahavir Enclave-I",
+   "latitude": 28.591577,
+   "longitude": 77.085405
+  },
+  {
+   "sno": 312,
+   "name": "JJ Campnear Farishta Soap Factory, Old Rohtak Road",
+   "latitude": 28.669585,
+   "longitude": 77.168854
+  },
+  {
+   "sno": 313,
+   "name": "East Sagar Pur Nursery Nalla Par",
+   "latitude": 28.601758,
+   "longitude": 77.104464
+  },
+  {
+   "sno": 314,
+   "name": "Out Side Green Belt Near Dispensary Shahzada Bagh",
+   "latitude": 28.669988,
+   "longitude": 77.16902
+  },
+  {
+   "sno": 315,
+   "name": "Matiala Mandir Tulsi Nagar",
+   "latitude": 28.670923,
+   "longitude": 77.162661
+  },
+  {
+   "sno": 316,
+   "name": "JJ Balmiki Camp Railway Quarters Old Sabzi Mandi",
+   "latitude": 28.662765,
+   "longitude": 77.191535
+  },
+  {
+   "sno": 317,
+   "name": "Sabzi Mandi Railway Station Behind Bagchi Peerji",
+   "latitude": 28.667043,
+   "longitude": 77.201803
+  },
+  {
+   "sno": 318,
+   "name": "Behind Karol Bagh Bus Terminal",
+   "latitude": 28.64875,
+   "longitude": 77.201209
+  },
+  {
+   "sno": 319,
+   "name": "Faiz Road Karol Bagh",
+   "latitude": 28.650232,
+   "longitude": 77.20074
+  },
+  {
+   "sno": 320,
+   "name": "Block-G, Jahangir Puri Site-1",
+   "latitude": 28.727416,
+   "longitude": 77.176125
+  },
+  {
+   "sno": 321,
+   "name": "Rajasthani Udyog Nagar",
+   "latitude": 28.724576,
+   "longitude": 77.160878
+  },
+  {
+   "sno": 322,
+   "name": "Sarai Peepal Thala Azad Pur",
+   "latitude": 28.716609,
+   "longitude": 77.169305
+  },
+  {
+   "sno": 323,
+   "name": "Mool Chand Colony Adarsh Nagar.",
+   "latitude": 28.720815,
+   "longitude": 77.170482
+  },
+  {
+   "sno": 324,
+   "name": "A-Block Jhangir Puri",
+   "latitude": 28.727708,
+   "longitude": 77.166983
+  },
+  {
+   "sno": 325,
+   "name": "H-2 Block Gujrati School Part-II, Jahangir Puri",
+   "latitude": 28.724484,
+   "longitude": 77.171063
+  },
+  {
+   "sno": 326,
+   "name": "Near Gopal Mandir Kishan Ganj",
+   "latitude": 28.662749,
+   "longitude": 77.199043
+  },
+  {
+   "sno": 327,
+   "name": "Near Block-No.149 Railway Colony Kishan Ganjnear SI Office",
+   "latitude": 28.663791,
+   "longitude": 77.196929
+  },
+  {
+   "sno": 328,
+   "name": "Open Space RPF Quaters Old Rohtak Road.",
+   "latitude": 28.668243,
+   "longitude": 77.175104
+  },
+  {
+   "sno": 329,
+   "name": "Near Bridge Inspector Spl.Northen Railway Daya Basti Railway Station.",
+   "latitude": 28.666967,
+   "longitude": 77.17566
+  },
+  {
+   "sno": 330,
+   "name": "Balmiki Jhuggies RPF Lane Daya Basti",
+   "latitude": 28.666457,
+   "longitude": 77.175209
+  },
+  {
+   "sno": 331,
+   "name": "Near Block.318 Daya Basti",
+   "latitude": 28.66729,
+   "longitude": 77.173038
+  },
+  {
+   "sno": 332,
+   "name": "Chuna Bhatti Amba Bagh",
+   "latitude": 28.668615,
+   "longitude": 77.189757
+  },
+  {
+   "sno": 333,
+   "name": "D.B.Gupta Road Karol Bagh Plot No.10",
+   "latitude": 28.650794,
+   "longitude": 77.197065
+  },
+  {
+   "sno": 334,
+   "name": "Kusumpur Pahari Block-B Vasant Vihar",
+   "latitude": 28.554191,
+   "longitude": 77.156073
+  },
+  {
+   "sno": 335,
+   "name": "In Frontof B-4, B-5 Vasant Kunj",
+   "latitude": 28.525416,
+   "longitude": 77.163078
+  },
+  {
+   "sno": 336,
+   "name": "Islam Colony Mahrauli",
+   "latitude": 28.511351,
+   "longitude": 77.176531
+  },
+  {
+   "sno": 337,
+   "name": "Rana Colony-II Mehrauli",
+   "latitude": 28.511826,
+   "longitude": 77.177266
+  },
+  {
+   "sno": 338,
+   "name": "Ram Dev Ka Dera BSF Office Rajokari Pahari, Delhi",
+   "latitude": 28.512043,
+   "longitude": 77.120699
+  },
+  {
+   "sno": 339,
+   "name": "Jhuggies Kewal Krishan Chowk Post Rajokari",
+   "latitude": 28.515912,
+   "longitude": 77.11833
+  },
+  {
+   "sno": 340,
+   "name": "Jhuggies Kholi Wala Baba Mandir Rajokari",
+   "latitude": 28.512532,
+   "longitude": 77.12282
+  },
+  {
+   "sno": 341,
+   "name": "Moti Lal Nehru Camp J.N.U.",
+   "latitude": 28.5514,
+   "longitude": 77.177721
+  },
+  {
+   "sno": 342,
+   "name": "Sai Baba Camp Adjoining Bal Bharti School, Lodhi Road(Institutional Area Lodhi Road)",
+   "latitude": 28.590434,
+   "longitude": 77.228442
+  },
+  {
+   "sno": 343,
+   "name": "Harijan Camp Meher Chand Market Lodhi Road",
+   "latitude": 28.586173,
+   "longitude": 77.227086
+  },
+  {
+   "sno": 344,
+   "name": "Backof Police Colony Andrews Ganj Part-I",
+   "latitude": 28.563041,
+   "longitude": 77.230951
+  },
+  {
+   "sno": 345,
+   "name": "Block-D, Seelampur",
+   "latitude": 28.676206,
+   "longitude": 77.268924
+  },
+  {
+   "sno": 346,
+   "name": "Block.3/4 K Brahampuri Road New Seelampur",
+   "latitude": 28.675607,
+   "longitude": 77.264624
+  },
+  {
+   "sno": 347,
+   "name": "H-4 Block, Gujrati School Jhangir Puri.",
+   "latitude": 28.724466,
+   "longitude": 77.168488
+  },
+  {
+   "sno": 348,
+   "name": "H-2 Block, Gujrati School-I Jhangir Puri.",
+   "latitude": 28.723823,
+   "longitude": 77.173984
+  },
+  {
+   "sno": 349,
+   "name": "H-Block Jhangir Puri",
+   "latitude": 28.722613,
+   "longitude": 77.170743
+  },
+  {
+   "sno": 350,
+   "name": "Patharwala Bagh E-Block Wazir Pur JJ Colony Phase-I",
+   "latitude": 28.679665,
+   "longitude": 77.16722
+  },
+  {
+   "sno": 351,
+   "name": "Infrontof E& F Patharwala Bagh Wazir Pur Phase-IV",
+   "latitude": 28.682161,
+   "longitude": 77.165811
+  },
+  {
+   "sno": 352,
+   "name": "B-Block, Shamshan Ghat Wazirpur",
+   "latitude": 28.67826,
+   "longitude": 77.168035
+  },
+  {
+   "sno": 353,
+   "name": "Opposite K& L-Block Wazirpur JJ Colony",
+   "latitude": 28.677475,
+   "longitude": 77.171059
+  },
+  {
+   "sno": 354,
+   "name": "K-Block Wazir Pur",
+   "latitude": 28.677935,
+   "longitude": 77.173397
+  },
+  {
+   "sno": 355,
+   "name": "J 1 J 2-Block Wazir Pur JJ Colony",
+   "latitude": 28.679683,
+   "longitude": 77.172937
+  },
+  {
+   "sno": 356,
+   "name": "J-3 Wazirpur",
+   "latitude": 28.683004,
+   "longitude": 77.168625
+  },
+  {
+   "sno": 357,
+   "name": "J-Block Murga Market Ashok Vihar Ward No.-31 Wazir Pur Village",
+   "latitude": 28.688032,
+   "longitude": 77.172833
+  },
+  {
+   "sno": 358,
+   "name": "Mata Jai Kaur Public School Ashok Vihar",
+   "latitude": 28.692667,
+   "longitude": 77.180174
+  },
+  {
+   "sno": 359,
+   "name": "Sawan Park Chowck No.-3 Ashok Vihar",
+   "latitude": 28.693698,
+   "longitude": 77.181285
+  },
+  {
+   "sno": 360,
+   "name": "Weaver Colony, Bharat Nagar.",
+   "latitude": 28.679674,
+   "longitude": 77.180806
+  },
+  {
+   "sno": 361,
+   "name": "Near Jain Mandir Shakti Nagar Extension",
+   "latitude": 28.682433,
+   "longitude": 77.18907
+  },
+  {
+   "sno": 362,
+   "name": "Near Arya Samaj Mandir Shakti Nagar Extension",
+   "latitude": 28.683032,
+   "longitude": 77.185668
+  },
+  {
+   "sno": 363,
+   "name": "Jailer Wala Bagh Ashok Vihar",
+   "latitude": 28.702051,
+   "longitude": 77.176985
+  },
+  {
+   "sno": 364,
+   "name": "Chander Shekhar Azad Colony, Wazir Pur Industrial Area",
+   "latitude": 28.701969,
+   "longitude": 77.173925
+  },
+  {
+   "sno": 365,
+   "name": "C-35 Wazir Pur Industrial Area",
+   "latitude": 28.700739,
+   "longitude": 77.170486
+  },
+  {
+   "sno": 366,
+   "name": "DDA Park Chander Shekher Azad Colony Wazir Pur Industrial Area",
+   "latitude": 28.70156,
+   "longitude": 77.174546
+  },
+  {
+   "sno": 367,
+   "name": "C-Block, Azad Colony Opposite Narula Factory Wazirpur Industriual Area",
+   "latitude": 28.700029,
+   "longitude": 77.173489
+  },
+  {
+   "sno": 368,
+   "name": "B-33 Wazirpur Industrial Area",
+   "latitude": 28.70099,
+   "longitude": 77.173191
+  },
+  {
+   "sno": 369,
+   "name": "B-27 Wazirpur Industrial Area",
+   "latitude": 28.702141,
+   "longitude": 77.172928
+  },
+  {
+   "sno": 370,
+   "name": "B-46 Wazirpur Industrial Area",
+   "latitude": 28.703006,
+   "longitude": 77.173829
+  },
+  {
+   "sno": 371,
+   "name": "B-46/2 Wazirpur Industrial Area",
+   "latitude": 28.702888,
+   "longitude": 77.173603
+  },
+  {
+   "sno": 372,
+   "name": "B-70/1 Wazirpur Industrial Area",
+   "latitude": 28.703968,
+   "longitude": 77.17266
+  },
+  {
+   "sno": 373,
+   "name": "Prem Bari Bridgealong Railway Line Sukhdev Nagar",
+   "latitude": 28.696847,
+   "longitude": 77.164104
+  },
+  {
+   "sno": 374,
+   "name": "Tool Room Training Center Wazirpur Industrial Area",
+   "latitude": 28.699247,
+   "longitude": 77.164739
+  },
+  {
+   "sno": 375,
+   "name": "Shahdeed Udam Singh Park Industrial Area Wazirpur.",
+   "latitude": 28.698419,
+   "longitude": 77.160447
+  },
+  {
+   "sno": 376,
+   "name": "Din Dayal Campnear Slum Quarters Road No.77 Punjabi Bagh",
+   "latitude": 28.661833,
+   "longitude": 77.119959
+  },
+  {
+   "sno": 377,
+   "name": "C-Block Madipuron Backof Nalla",
+   "latitude": 28.674878,
+   "longitude": 77.11382
+  },
+  {
+   "sno": 378,
+   "name": "Rajiv Camp Road No.-77 Punjabi Baghnear DTC Terminal",
+   "latitude": 28.66353,
+   "longitude": 77.130006
+  },
+  {
+   "sno": 379,
+   "name": "Mahatma Gandhi Camp Road No.-77 Punjabi Bagh",
+   "latitude": 28.66153,
+   "longitude": 77.12861
+  },
+  {
+   "sno": 380,
+   "name": "Luxmi Camp Near Slum Quaters N.G.Drain Road No.33 Punjabi Bagh.",
+   "latitude": 28.663743,
+   "longitude": 77.118194
+  },
+  {
+   "sno": 381,
+   "name": "Block-C, Raghubir Nagar.",
+   "latitude": 28.659724,
+   "longitude": 77.113192
+  },
+  {
+   "sno": 382,
+   "name": "Block-N, Raghubir Nagar",
+   "latitude": 28.659789,
+   "longitude": 77.112842
+  },
+  {
+   "sno": 383,
+   "name": "Block-K, Raghubir Nagar.",
+   "latitude": 28.654084,
+   "longitude": 77.109707
+  },
+  {
+   "sno": 384,
+   "name": "Block.B-1, Raghubir Nagar.",
+   "latitude": 28.654878,
+   "longitude": 77.109299
+  },
+  {
+   "sno": 385,
+   "name": "Near Double Storey Sweeper Tenements Raghubir Nagar.",
+   "latitude": 28.652592,
+   "longitude": 77.116709
+  },
+  {
+   "sno": 386,
+   "name": "Shyama Prashad Mukharjee Camp Back Sideof Kukreja Hospital Tagore Garden",
+   "latitude": 28.647782,
+   "longitude": 77.116161
+  },
+  {
+   "sno": 387,
+   "name": "Karpuri Thakur Jagjeewan Camp Shriniwas Puri",
+   "latitude": 28.569378,
+   "longitude": 77.255295
+  },
+  {
+   "sno": 388,
+   "name": "JJC Indira Gandhi Camp Shriniwas Puri",
+   "latitude": 28.567995,
+   "longitude": 77.255848
+  },
+  {
+   "sno": 389,
+   "name": "Indira Gandhi Tea Market Shriniwas Puri",
+   "latitude": 28.566127,
+   "longitude": 77.253874
+  },
+  {
+   "sno": 390,
+   "name": "Indira Camp Sriniwas Puri Gurdawara",
+   "latitude": 28.56661,
+   "longitude": 77.258782
+  },
+  {
+   "sno": 391,
+   "name": "Okhla DTC Depot-I",
+   "latitude": 28.562196,
+   "longitude": 77.262285
+  },
+  {
+   "sno": 392,
+   "name": "Dayal Singh Colony Near West Front Okhla.",
+   "latitude": 28.561433,
+   "longitude": 77.26459
+  },
+  {
+   "sno": 393,
+   "name": "Gandhi Camp Behind Fruit& Vegitable Market Okhla Railway Station",
+   "latitude": 28.558888,
+   "longitude": 77.264672
+  },
+  {
+   "sno": 394,
+   "name": "Priya Camp Mathura Road Opposite Sukhdev Vihar Depot",
+   "latitude": 28.554041,
+   "longitude": 77.271604
+  },
+  {
+   "sno": 395,
+   "name": "Priyanka Camp Mathura Road Opposite Sukhdev Vihar Depot",
+   "latitude": 28.553329,
+   "longitude": 77.271899
+  },
+  {
+   "sno": 396,
+   "name": "CRRI Camp Mathura Road Opposite Sukhdev Vihar Depot",
+   "latitude": 28.550498,
+   "longitude": 77.27406
+  },
+  {
+   "sno": 397,
+   "name": "Navjeevan Camp& J.L.Nehru Camp Govind Puri Kalkaji",
+   "latitude": 28.531402,
+   "longitude": 77.260619
+  },
+  {
+   "sno": 398,
+   "name": "Bhoomiheen Camp Govind Puri Kalkaji",
+   "latitude": 28.529154,
+   "longitude": 77.258753
+  },
+  {
+   "sno": 399,
+   "name": "Sarvodaya Colonynear MCD School Tilak Khand Kalkaji",
+   "latitude": 28.541721,
+   "longitude": 77.261691
+  },
+  {
+   "sno": 400,
+   "name": "Manav Kalyan Camp Giri Nagar Kalkaji",
+   "latitude": 28.542217,
+   "longitude": 77.264194
+  },
+  {
+   "sno": 401,
+   "name": "Sudhar Camp Kalkaji",
+   "latitude": 28.543501,
+   "longitude": 77.256549
+  },
+  {
+   "sno": 402,
+   "name": "Mini Subhash Campnear Police Station Dakshin Puri Extension",
+   "latitude": 28.521237,
+   "longitude": 77.243584
+  },
+  {
+   "sno": 403,
+   "name": "JJC Sheheed Camp Block.16 Dakshin Puri Extension",
+   "latitude": 28.518155,
+   "longitude": 77.243707
+  },
+  {
+   "sno": 404,
+   "name": "Sanjay Camp Dakshin Puri Extension",
+   "latitude": 28.516993,
+   "longitude": 77.239365
+  },
+  {
+   "sno": 405,
+   "name": "Harijan Camp Khanpur& Banjara Camp Opposite PNB Khanpur",
+   "latitude": 28.514752,
+   "longitude": 77.233073
+  },
+  {
+   "sno": 406,
+   "name": "Janta Jeewan Tigri Part-I",
+   "latitude": 28.508833,
+   "longitude": 77.235719
+  },
+  {
+   "sno": 407,
+   "name": "Janta Jeewan Camp Tigri Part-II",
+   "latitude": 28.507318,
+   "longitude": 77.237578
+  },
+  {
+   "sno": 408,
+   "name": "JJC Near Virat Cinema C-Block",
+   "latitude": 28.522438,
+   "longitude": 77.237087
+  },
+  {
+   "sno": 409,
+   "name": "Subhash Camp Block-4, 5, 6, 7 Dakshin Puri",
+   "latitude": 28.52672,
+   "longitude": 77.23864
+  },
+  {
+   "sno": 410,
+   "name": "Nehru Basti Kalai Basti(Seeta Saran Colony.)",
+   "latitude": 28.674543,
+   "longitude": 77.202399
+  },
+  {
+   "sno": 411,
+   "name": "Near Petrol Pump Opposite HANSRAJ College Malka Ganj",
+   "latitude": 28.67778,
+   "longitude": 77.208139
+  },
+  {
+   "sno": 412,
+   "name": "Shayam Basti Timarpur",
+   "latitude": 28.699538,
+   "longitude": 77.221271
+  },
+  {
+   "sno": 413,
+   "name": "Sanjay Basti Timarpur",
+   "latitude": 28.703678,
+   "longitude": 77.222933
+  },
+  {
+   "sno": 414,
+   "name": "Indira Bastinear Thana Timar Pur",
+   "latitude": 28.708237,
+   "longitude": 77.223932
+  },
+  {
+   "sno": 415,
+   "name": "Dairy No.3 Lucknow Road Timar Pur",
+   "latitude": 28.70778,
+   "longitude": 77.222019
+  },
+  {
+   "sno": 416,
+   "name": "Patra Char Vidyalaya",
+   "latitude": 28.704831,
+   "longitude": 77.220926
+  },
+  {
+   "sno": 417,
+   "name": "T Huts Wazirpur Shiv Mandir",
+   "latitude": 28.715071,
+   "longitude": 77.228639
+  },
+  {
+   "sno": 418,
+   "name": "Dr.Ambedker Nagar Near Wazirabad Timarpur.",
+   "latitude": 28.712336,
+   "longitude": 77.229794
+  },
+  {
+   "sno": 419,
+   "name": "Nand Lal Camp Near Gopalpur Village(Part-I)",
+   "latitude": 28.716256,
+   "longitude": 77.219837
+  },
+  {
+   "sno": 420,
+   "name": "Nand Lal Camp Near Gopalpur Village(Part-II)",
+   "latitude": 28.715352,
+   "longitude": 77.222601
+  },
+  {
+   "sno": 421,
+   "name": "JJC Mukherji Nagar Dairy Munshi Ram Kingsway Camp",
+   "latitude": 28.712294,
+   "longitude": 77.209383
+  },
+  {
+   "sno": 422,
+   "name": "Sethi Camp Indira Vikas Colony Opposite Sant Nirankari Senior Secondary School Nirankari",
+   "latitude": 28.714666,
+   "longitude": 77.207624
+  },
+  {
+   "sno": 423,
+   "name": "Outram Line Infrontof Gurudwara Kingsway Camp",
+   "latitude": 28.701027,
+   "longitude": 77.206579
+  },
+  {
+   "sno": 424,
+   "name": "Patel Chestnear Dhaka Village Adjacentto Gandhi Ashram",
+   "latitude": 28.705283,
+   "longitude": 77.209149
+  },
+  {
+   "sno": 425,
+   "name": "Mallik Pur Kingsway Camp",
+   "latitude": 28.703944,
+   "longitude": 77.198028
+  },
+  {
+   "sno": 426,
+   "name": "Janta Mazdoor Camp Zafrabad Part-I",
+   "latitude": 28.679992,
+   "longitude": 77.275816
+  },
+  {
+   "sno": 427,
+   "name": "Janta Mazdoor Camp Zafrabad Part-II",
+   "latitude": 28.680736,
+   "longitude": 77.277601
+  },
+  {
+   "sno": 428,
+   "name": "CPJ-Block New Seelam Pur",
+   "latitude": 28.670722,
+   "longitude": 77.263319
+  },
+  {
+   "sno": 429,
+   "name": "Along With Pushta EIJ Block, New Seelam Pur",
+   "latitude": 28.67268,
+   "longitude": 77.263018
+  },
+  {
+   "sno": 430,
+   "name": "Block C-1 Imbira Pushta New Seelm Pur Market.",
+   "latitude": 28.676418,
+   "longitude": 77.267104
+  },
+  {
+   "sno": 431,
+   "name": "JJ Cat Bal Mukund Khand Kalkaji",
+   "latitude": 28.540761,
+   "longitude": 77.26525
+  },
+  {
+   "sno": 432,
+   "name": "Sonia Gandhi Camp Pul Prahlad Pur Railway Line Tuglka Bad",
+   "latitude": 28.500208,
+   "longitude": 77.295956
+  },
+  {
+   "sno": 433,
+   "name": "New Sanjay Campat E-33, Okhla Industrial Area Phase-II",
+   "latitude": 28.534281,
+   "longitude": 77.279845
+  },
+  {
+   "sno": 434,
+   "name": "JJC Lohar Basti T-Pointred Light Lal Kuan",
+   "latitude": 28.505292,
+   "longitude": 77.277619
+  },
+  {
+   "sno": 435,
+   "name": "Narden Jhuggi S.P.Builder Crusher, M.B.Road",
+   "latitude": 28.504444,
+   "longitude": 77.272191
+  },
+  {
+   "sno": 436,
+   "name": "JJC Sangam Vihar(Shiv Mandir)",
+   "latitude": 28.501893,
+   "longitude": 77.253366
+  },
+  {
+   "sno": 437,
+   "name": "Grah Kalyan Samiti Railway Colony Tuglaka Bad(V.P.Singh Camp)",
+   "latitude": 28.505315,
+   "longitude": 77.286679
+  },
+  {
+   "sno": 438,
+   "name": "Nandi Vatika Railway Colony Tuglakabad",
+   "latitude": 28.506541,
+   "longitude": 77.291068
+  },
+  {
+   "sno": 439,
+   "name": "Gola Kuan Okhla Industrial Area Phase-I, Tehkhand",
+   "latitude": 28.51847,
+   "longitude": 77.283566
+  },
+  {
+   "sno": 440,
+   "name": "Yog Shala Campin Park Near ESS Opposite D-159 Okhla Industrial Area Phase-I",
+   "latitude": 28.519845,
+   "longitude": 77.280614
+  },
+  {
+   "sno": 441,
+   "name": "Yog Shala Campin Park Opposite D-42 Okhla Industrial Area Phase-I",
+   "latitude": 28.519994,
+   "longitude": 77.281469
+  },
+  {
+   "sno": 442,
+   "name": "Yog Shala Campin Plot No.D-88/6 Okhla Industrial Area Phase-I",
+   "latitude": 28.520046,
+   "longitude": 77.280219
+  },
+  {
+   "sno": 443,
+   "name": "Yog Shala Campin Back Laneof D-56to D-60 Okhla Industrial Area Phase-I",
+   "latitude": 28.521388,
+   "longitude": 77.282574
+  },
+  {
+   "sno": 444,
+   "name": "Yog Shala Campin Back Laneof D-153to D-157 Okhla Industrial Area Phase-I",
+   "latitude": 28.520401,
+   "longitude": 77.279622
+  },
+  {
+   "sno": 445,
+   "name": "Yog Shala Campin Back Laneof D-120to D-126 Okhla Industrial Area Phase-I",
+   "latitude": 28.521568,
+   "longitude": 77.278733
+  },
+  {
+   "sno": 446,
+   "name": "Shanshi Camp Mathura Road Badarpur",
+   "latitude": 28.498221,
+   "longitude": 77.299236
+  },
+  {
+   "sno": 447,
+   "name": "Dora Tabu Camp Near Tuglakabad Railway Stationin Mohan Co-Operative",
+   "latitude": 28.505298,
+   "longitude": 77.298574
+  },
+  {
+   "sno": 448,
+   "name": "JJC Rori Bajri Camp Badarpur",
+   "latitude": 28.503909,
+   "longitude": 77.298752
+  },
+  {
+   "sno": 449,
+   "name": "Indira Camp Alimore Mathura Road Mohan Co-Operative",
+   "latitude": 28.513567,
+   "longitude": 77.296398
+  },
+  {
+   "sno": 450,
+   "name": "Majdoor Kalyan Campin Plot No.W-1to W-5and Back Lane Okhla Industrial Area Phase II",
+   "latitude": 28.531365,
+   "longitude": 77.274938
+  },
+  {
+   "sno": 451,
+   "name": "Mazdoor Kalyan Camp Plot No.A-7, 8, 12& Back Laneof A-9to A-17 Okhla Industrial Area Phase.I",
+   "latitude": 28.53043,
+   "longitude": 77.275399
+  },
+  {
+   "sno": 452,
+   "name": "Amar Jyoti Camp Okhla Phase-I",
+   "latitude": 28.529653,
+   "longitude": 77.276302
+  },
+  {
+   "sno": 453,
+   "name": "Ambedkar Camp Okhla Phase-I",
+   "latitude": 28.529364,
+   "longitude": 77.274008
+  },
+  {
+   "sno": 454,
+   "name": "Mazdoor Kalyan Campin Back Laneof Plot No.B-317 To B-319and B-254 To B-250 Okhla Industrial Area Phase-I",
+   "latitude": 28.529568,
+   "longitude": 77.277639
+  },
+  {
+   "sno": 455,
+   "name": "Mazdoor Campin Plot No.B-295& Back Laneof B-292to B-301 Okhla Industrial Area Phase-I.",
+   "latitude": 28.52959,
+   "longitude": 77.278687
+  },
+  {
+   "sno": 456,
+   "name": "New Sanjay Camp Opposite Plot No.A-27& Back Laneof A-7 To A-35 Okhla Industrial Area Phase-I",
+   "latitude": 28.531543,
+   "longitude": 77.279685
+  },
+  {
+   "sno": 457,
+   "name": "New Sanjay Camp Okhla Industrial Area Phase-I Near KTI Factory(Plot No.B-220)",
+   "latitude": 28.533256,
+   "longitude": 77.281309
+  },
+  {
+   "sno": 458,
+   "name": "New Sanjay Camp Opposite Plot No.B-47& B-48 Along Railway Boundary Wall Okhla Industrial Area Phase-I",
+   "latitude": 28.532558,
+   "longitude": 77.282406
+  },
+  {
+   "sno": 459,
+   "name": "New Sanjay Camp Opposite E-44 Near Mohan Exportat Okhla Phase.I",
+   "latitude": 28.531428,
+   "longitude": 77.281689
+  },
+  {
+   "sno": 460,
+   "name": "New Sanjay Camp Opposite Plot No.B-90-B-93, B-94, B-102& Back Laneof B-90 To B-102 Okhla Industrial Area Phase-I",
+   "latitude": 28.530576,
+   "longitude": 77.281772
+  },
+  {
+   "sno": 461,
+   "name": "Majdoor Camp B Block Plot No.B-122& Back Laneof B-118to B-123 Okhla Industrial Area Phase-I",
+   "latitude": 28.529362,
+   "longitude": 77.281874
+  },
+  {
+   "sno": 462,
+   "name": "Majdoor Camp Block.Bin Plot No.B-130& 131& Its Back Lane Okhla Industrial Area Phase-I",
+   "latitude": 28.528418,
+   "longitude": 77.282654
+  },
+  {
+   "sno": 463,
+   "name": "Majdoor Campon Back Laneon Road Berm Along Central Ware Housing& Steel Authorityof India Okhla Industrial Area Phase-I",
+   "latitude": 28.527839,
+   "longitude": 77.283284
+  },
+  {
+   "sno": 464,
+   "name": "Majdoor Campon Back Laneof C 1 To C 10 Okhla Industrial Area Phase-I",
+   "latitude": 28.527078,
+   "longitude": 77.282567
+  },
+  {
+   "sno": 465,
+   "name": "Majdoor Campon Back Laneof C 24 To C 30 Okhla Industrial Area Phase-I",
+   "latitude": 28.527508,
+   "longitude": 77.281432
+  },
+  {
+   "sno": 466,
+   "name": "Majdoor Camp Plot No.B-145, B-147, B-150& Its Back Laneof B-143 To B-150 Okhla Industrial Area Phase-I",
+   "latitude": 28.528427,
+   "longitude": 77.280608
+  },
+  {
+   "sno": 467,
+   "name": "Back Laneof 151to 159 Okhla Industrial Area Phase-I",
+   "latitude": 28.528158,
+   "longitude": 77.280027
+  },
+  {
+   "sno": 468,
+   "name": "Indira Kalyan Vihar Okhla Industrial Area Phase-I, Site-II",
+   "latitude": 28.523645,
+   "longitude": 77.277246
+  },
+  {
+   "sno": 469,
+   "name": "Indira Kalyan Vihar Okhla Industrial Area Phase-I, Site-II",
+   "latitude": 28.524613,
+   "longitude": 77.277922
+  },
+  {
+   "sno": 470,
+   "name": "Indira Kalyan Viharin Back Laneof Plot No.B-230to B-235 Okhla Industrial Area Phase-I",
+   "latitude": 28.526283,
+   "longitude": 77.278281
+  },
+  {
+   "sno": 471,
+   "name": "Bengali Camp Okhla Phase.I",
+   "latitude": 28.525866,
+   "longitude": 77.275305
+  },
+  {
+   "sno": 472,
+   "name": "New Sanjay Campat Road Berm Inside Laneof E-34, Okhla Industrial Area Phase.II",
+   "latitude": 28.534746,
+   "longitude": 77.280724
+  },
+  {
+   "sno": 473,
+   "name": "Sonia Gandhi Camp Pul Prahlad Pur Railway Line Tuglka Bad Part-2",
+   "latitude": 28.498523,
+   "longitude": 77.297003
+  },
+  {
+   "sno": 474,
+   "name": "Gandhi Camp West Tuglkabad",
+   "latitude": 28.510515,
+   "longitude": 77.244965
+  },
+  {
+   "sno": 475,
+   "name": "Backof Police Colony Andrews Ganj Part-II",
+   "latitude": 28.563654,
+   "longitude": 77.231794
+  },
+  {
+   "sno": 476,
+   "name": "JJC Jhuggie No.4 MCD Store Pant Nagar",
+   "latitude": 28.586176,
+   "longitude": 77.244365
+  },
+  {
+   "sno": 477,
+   "name": "Indira Gandhi Campbehindnew Khanna Market, Lodhi Road",
+   "latitude": 28.579704,
+   "longitude": 77.221512
+  },
+  {
+   "sno": 478,
+   "name": "JJC Prem Nagar Barapullah Road",
+   "latitude": 28.578653,
+   "longitude": 77.221306
+  },
+  {
+   "sno": 479,
+   "name": "JJC Rajiv Camp Siri Fort Road Sadiq Nagar",
+   "latitude": 28.554529,
+   "longitude": 77.227834
+  },
+  {
+   "sno": 480,
+   "name": "JJC Tea Huts Near MCD Nursery Amar Colony Lajpat Nagar",
+   "latitude": 28.55995,
+   "longitude": 77.239425
+  },
+  {
+   "sno": 481,
+   "name": "Karotia Camp Kalkaji",
+   "latitude": 28.527969,
+   "longitude": 77.254422
+  },
+  {
+   "sno": 482,
+   "name": "Okhla Over Head Tank Okhla Phase-II",
+   "latitude": 28.53326,
+   "longitude": 77.270847
+  },
+  {
+   "sno": 483,
+   "name": "Janta Jeewan Campin Back Lineof T-9 To T-16 Okhla Industrial Area Phase-II",
+   "latitude": 28.532382,
+   "longitude": 77.272787
+  },
+  {
+   "sno": 484,
+   "name": "Janta Jeewan Between Parkand Plot No.D-11/1, 11/2, 11/4& Back Laneof D-11/4 To D-8/1 Okhla Industrial Area Phase-II",
+   "latitude": 28.533091,
+   "longitude": 77.273863
+  },
+  {
+   "sno": 485,
+   "name": "Janta Jeewan Camp Plot No.D-1/4 Okhla Industrial Area Phase-II",
+   "latitude": 28.53337,
+   "longitude": 77.274991
+  },
+  {
+   "sno": 486,
+   "name": "Janta Jeewan Camp Rajeev Campin Plot No.D-6/2and Back Laneof D-6/2 To D-7/3 Okhla Phase-II",
+   "latitude": 28.534213,
+   "longitude": 77.274114
+  },
+  {
+   "sno": 487,
+   "name": "Janta Jeewan Between Parkand Plot No.F-17/5& 21/5 Near Mata Ka Mandir Okhla Industrial Area Phase-II",
+   "latitude": 28.535266,
+   "longitude": 77.273003
+  },
+  {
+   "sno": 488,
+   "name": "Janta Jeewan Campin Side Lane& Its Back Laneof F-21/1& Park Okhla Industrial Area Phase-III",
+   "latitude": 28.534568,
+   "longitude": 77.271968
+  },
+  {
+   "sno": 489,
+   "name": "Janta Jeewan Campin Back Laneof E-46/1 To E-46/14 Okhla Industrial Area Phase-II",
+   "latitude": 28.536108,
+   "longitude": 77.269033
+  },
+  {
+   "sno": 490,
+   "name": "Janta Jeewan Camp E-Block(E-44, 45)",
+   "latitude": 28.535626,
+   "longitude": 77.269647
+  },
+  {
+   "sno": 491,
+   "name": "Janta Jeewan Campin Back Laneof E-41/6 To E-43/7 Okhla Industrial Area Phase-II",
+   "latitude": 28.536719,
+   "longitude": 77.27053
+  },
+  {
+   "sno": 492,
+   "name": "Jeewan Jyoti Rajeev Campin F Block Near Maruti Service Master Opposite E-40 Okhla Industrial Area Phase-II",
+   "latitude": 28.536374,
+   "longitude": 77.271796
+  },
+  {
+   "sno": 493,
+   "name": "Janta Jeewan Rajeev Campin Back Laneof F 27/1 To F 30/2 Okhla Industrial Area Phase-II",
+   "latitude": 28.536555,
+   "longitude": 77.272667
+  },
+  {
+   "sno": 494,
+   "name": "Janta Jeewan Rajeev Camp F-30/5 Near ESS Okhla Industrial Area Phase-II",
+   "latitude": 28.538224,
+   "longitude": 77.271168
+  },
+  {
+   "sno": 495,
+   "name": "Janta Jeewan Campin Plot No.C-43on 30 Feet Road Okhla Industrial Area Phase-II",
+   "latitude": 28.535,
+   "longitude": 77.277607
+  },
+  {
+   "sno": 496,
+   "name": "Janta Jeewan Campin Plot No.C-43on 80 Feet Road Okhla Industrial Area Phase-II",
+   "latitude": 28.534308,
+   "longitude": 77.27779
+  },
+  {
+   "sno": 497,
+   "name": "Janta Jeewan Camp Along Drain Opposite DSISDC Shed Z-Block Okhla Industrail Area Phase-II",
+   "latitude": 28.536238,
+   "longitude": 77.281352
+  },
+  {
+   "sno": 498,
+   "name": "At Janta Jeewan Camp Okhla Phase-I Inear Chawla Hotelin Plot C-38 Okhla Industrial Area Phase-II",
+   "latitude": 28.535749,
+   "longitude": 77.27987
+  },
+  {
+   "sno": 499,
+   "name": "At Janta Jeewan Camp Okhla Phase-II Between Plot C-52& C-53 Okhla Industrial Area Phase-II",
+   "latitude": 28.536408,
+   "longitude": 77.279053
+  },
+  {
+   "sno": 500,
+   "name": "JJC Janta Jeevan Campintheback Laneof X-38to X-51 Okhla Industrialarea Ph-II",
+   "latitude": 28.536821,
+   "longitude": 77.276665
+  },
+  {
+   "sno": 501,
+   "name": "JJ Cin Plot No.X-26and Back Laneof X-26to X-37 Okhla Industrial Area Phase-II",
+   "latitude": 28.536397,
+   "longitude": 77.277224
+  },
+  {
+   "sno": 502,
+   "name": "Janta Jeewan Campin Plot No.B-22/2& 22/3 Okhla Industrial Area Phase-II",
+   "latitude": 28.534691,
+   "longitude": 77.276284
+  },
+  {
+   "sno": 503,
+   "name": "Janta Jeewan Campin Plot No.B-21/2 Okhla Industrial Area Phase-II",
+   "latitude": 28.535066,
+   "longitude": 77.276113
+  },
+  {
+   "sno": 504,
+   "name": "Janta Jeevan Rajeev Campin Back Lane& Plot No B-1/1 Okhla Industrial Area Phase-II",
+   "latitude": 28.535305,
+   "longitude": 77.275373
+  },
+  {
+   "sno": 505,
+   "name": "Janta Jeevan Rajeev Campin Plot No.-B-7/3, B-8/1to 8/3and B-9/1, 4/3, B-3/3& 4/1and Back Laneof Plot No.-B-4/3to 7/3 Okhla Industrial Area Ph-II",
+   "latitude": 28.535855,
+   "longitude": 77.274604
+  },
+  {
+   "sno": 506,
+   "name": "JJC Sanjay Colony S-Block Near Delhi Jal Board Booster Pumping Station Okhla Industrial Area Ph-II",
+   "latitude": 28.538991,
+   "longitude": 77.272652
+  },
+  {
+   "sno": 507,
+   "name": "S-39 Sanjay Colony, Okhla Industrial Area Phase-II",
+   "latitude": 28.538155,
+   "longitude": 77.273628
+  },
+  {
+   "sno": 508,
+   "name": "Sanjay Colony Okhla Phase-II",
+   "latitude": 28.539712,
+   "longitude": 77.274154
+  },
+  {
+   "sno": 509,
+   "name": "Sanjay Colony Plot No.A-112& 113 Okhla Industrial Area Phase-II",
+   "latitude": 28.54029,
+   "longitude": 77.275101
+  },
+  {
+   "sno": 510,
+   "name": "Sanjay Colony Plot No.A-108 Okhla Industrial Area Phase-II",
+   "latitude": 28.539444,
+   "longitude": 77.275549
+  },
+  {
+   "sno": 511,
+   "name": "Sanjay Colony Plot No.A-106 Okhla Industrial Area Phase-II",
+   "latitude": 28.539118,
+   "longitude": 77.275765
+  },
+  {
+   "sno": 512,
+   "name": "Sanjay Colony Plot No.A-128 Okhla Industrial Area Phase-II",
+   "latitude": 28.539879,
+   "longitude": 77.275996
+  },
+  {
+   "sno": 513,
+   "name": "Sanjay Colonyin Plot No.C 54/4& Back Lane 54/1to 54/4 Okhla Industrial Area Phase-II",
+   "latitude": 28.537722,
+   "longitude": 77.279667
+  },
+  {
+   "sno": 514,
+   "name": "Sanjay Colony Near C-63/2& Its Back Lane, Okhla Phase II",
+   "latitude": 28.53837,
+   "longitude": 77.278344
+  },
+  {
+   "sno": 515,
+   "name": "Sanjay Colony Block.C-62/1, Okhla Phase II",
+   "latitude": 28.539037,
+   "longitude": 77.277998
+  },
+  {
+   "sno": 516,
+   "name": "Sanjay Colony C-56/3, 60/2, 60/3, 61/1, 61/2& Its Back Lane, Okhla Phase II",
+   "latitude": 28.538817,
+   "longitude": 77.278725
+  },
+  {
+   "sno": 517,
+   "name": "Manav Kalyan Plot No.23& 17 Okhla Industrial Area Phase.II",
+   "latitude": 28.540157,
+   "longitude": 77.2793
+  },
+  {
+   "sno": 518,
+   "name": "Sanjay Colony Y Blockat No.Y-5to Y-8and Back Laneof Y-1to Y-12and ESS Okhla Industrial Area Phase-II",
+   "latitude": 28.541714,
+   "longitude": 77.276312
+  },
+  {
+   "sno": 519,
+   "name": "Manav Kalyan Camp Z-Blockin Backof Plot No.47 To 49 Okhla Industrial Area Phase.II",
+   "latitude": 28.542505,
+   "longitude": 77.278435
+  },
+  {
+   "sno": 520,
+   "name": "G-Block Harikesh Nagar Okhla Industrial Area Phase-II",
+   "latitude": 28.543276,
+   "longitude": 77.276943
+  },
+  {
+   "sno": 521,
+   "name": "Shiv Camp Lal Kuan Badarpur Chungi No.-2& 3, M.B.Road",
+   "latitude": 28.495414,
+   "longitude": 77.281187
+  },
+  {
+   "sno": 522,
+   "name": "Ram Pyari Camp Near Nangia Park Lal Kuan",
+   "latitude": 28.496105,
+   "longitude": 77.285633
+  },
+  {
+   "sno": 523,
+   "name": "Northen Jhuggie Cluster M.B.Road(Behind Petrol Pump)",
+   "latitude": 28.502103,
+   "longitude": 77.28005
+  },
+  {
+   "sno": 524,
+   "name": "Khatta Camp Gosain Crusher M.B.Road Lal Kaun",
+   "latitude": 28.503279,
+   "longitude": 77.277062
+  },
+  {
+   "sno": 525,
+   "name": "Azad Basti Mohomed Pur",
+   "latitude": 28.564532,
+   "longitude": 77.185134
+  },
+  {
+   "sno": 526,
+   "name": "Kumhar Basti Mohomed Pur",
+   "latitude": 28.566082,
+   "longitude": 77.185181
+  },
+  {
+   "sno": 527,
+   "name": "Ambedkar Basti West Block-IIR.K.Puram",
+   "latitude": 28.569074,
+   "longitude": 77.17983
+  },
+  {
+   "sno": 528,
+   "name": "Leprosy Colony Infrontof Mohan Singh Market R.K.Puram",
+   "latitude": 28.567312,
+   "longitude": 77.176351
+  },
+  {
+   "sno": 529,
+   "name": "Sardar Patel Ekta Camp(Ekta Vihar)",
+   "latitude": 28.567685,
+   "longitude": 77.174371
+  },
+  {
+   "sno": 530,
+   "name": "Sonia Gandhi Camp Sector 7 R.K.Puram",
+   "latitude": 28.568807,
+   "longitude": 77.173387
+  },
+  {
+   "sno": 531,
+   "name": "Lal Bahadur Shastri Camp Sector-7, R.K.Puram",
+   "latitude": 28.569018,
+   "longitude": 77.171909
+  },
+  {
+   "sno": 532,
+   "name": "Nehru Ekta Camp Sector-VIIR.K.Puram",
+   "latitude": 28.566858,
+   "longitude": 77.170175
+  },
+  {
+   "sno": 533,
+   "name": "S.P./J.P.Colony Sector 6 R.K.Puram",
+   "latitude": 28.566152,
+   "longitude": 77.168514
+  },
+  {
+   "sno": 534,
+   "name": "Malai Mandir Sector VIIR.K.Puram.",
+   "latitude": 28.56843,
+   "longitude": 77.166192
+  },
+  {
+   "sno": 535,
+   "name": "Behind Sangam Cinema Sector IX/Sabzi Market R.K.Puram",
+   "latitude": 28.573837,
+   "longitude": 77.172373
+  },
+  {
+   "sno": 536,
+   "name": "Kanak Durga Camp R.K.Puram Sector XII",
+   "latitude": 28.573027,
+   "longitude": 77.177003
+  },
+  {
+   "sno": 537,
+   "name": "Pushta Between Old Seemapuri, DLF Dilshad Garden(Indira Nehru Camp Part-II)",
+   "latitude": 28.68433,
+   "longitude": 77.331834
+  },
+  {
+   "sno": 538,
+   "name": "Shastri Market Moti Bagh(South)",
+   "latitude": 28.582529,
+   "longitude": 77.170924
+  },
+  {
+   "sno": 539,
+   "name": "Shri Ram JJ Cnear SPRINGDALE School Dhaula Kaun",
+   "latitude": 28.586997,
+   "longitude": 77.165408
+  },
+  {
+   "sno": 540,
+   "name": "Sector III/JJ Mahiwal Saraswati Camp R.K.Puram",
+   "latitude": 28.553163,
+   "longitude": 77.181053
+  },
+  {
+   "sno": 541,
+   "name": "Ravi Dass Camp Sector-3 R.K.Puram",
+   "latitude": 28.559055,
+   "longitude": 77.181648
+  },
+  {
+   "sno": 542,
+   "name": "Police Chowki Sector IVR.K.Puram Parvatiya Camp",
+   "latitude": 28.559937,
+   "longitude": 77.18074
+  },
+  {
+   "sno": 543,
+   "name": "Bhanwar Singh Camp Behind Janta Flat Block-D Vasant Vihar Phase-I",
+   "latitude": 28.560727,
+   "longitude": 77.150794
+  },
+  {
+   "sno": 544,
+   "name": "Nepali Camp Near Bhanwar Singh Camp Vasant Vihar",
+   "latitude": 28.562167,
+   "longitude": 77.152237
+  },
+  {
+   "sno": 545,
+   "name": "Leprosy Camp Shriniwas Puri",
+   "latitude": 28.56182,
+   "longitude": 77.252358
+  },
+  {
+   "sno": 546,
+   "name": "Sector-IR.K.Puram Police Post(Hanuman Camp)",
+   "latitude": 28.56051,
+   "longitude": 77.18263
+  },
+  {
+   "sno": 547,
+   "name": "Sewa Camp Behind Police Staff Quarter Vasant Vihar Depot Munirika",
+   "latitude": 28.558251,
+   "longitude": 77.168063
+  },
+  {
+   "sno": 548,
+   "name": "Shiva Camp Vasant Vihar Near Petrol Pump",
+   "latitude": 28.560022,
+   "longitude": 77.169557
+  },
+  {
+   "sno": 549,
+   "name": "Coolie Camp Vasant Vihar",
+   "latitude": 28.553628,
+   "longitude": 77.165754
+  },
+  {
+   "sno": 550,
+   "name": "Adarsh Colony Mohammed Pur",
+   "latitude": 28.566501,
+   "longitude": 77.18508
+  },
+  {
+   "sno": 551,
+   "name": "Swami Nagar Near Water Tank Outer Ring Road",
+   "latitude": 28.54148,
+   "longitude": 77.222362
+  },
+  {
+   "sno": 552,
+   "name": "Lal Gumbadbehind Sadhana Enclave Malviya Nagar",
+   "latitude": 28.540746,
+   "longitude": 77.214158
+  },
+  {
+   "sno": 553,
+   "name": "Chander Arya Vidya Mandir",
+   "latitude": 28.558131,
+   "longitude": 77.257329
+  },
+  {
+   "sno": 554,
+   "name": "JJ Cluster, Near NDMC Water Supply Control Near Kali Bari Marg",
+   "latitude": 28.629046,
+   "longitude": 77.201295
+  },
+  {
+   "sno": 555,
+   "name": "Raju Camp, C-33 Block, Havlock Squater, Kali Bari Marg",
+   "latitude": 28.628929,
+   "longitude": 77.20162
+  },
+  {
+   "sno": 556,
+   "name": "JJ Cluster Knownas Dairy No 95, C-31 Block, Kali Bari Marg",
+   "latitude": 28.629989,
+   "longitude": 77.202671
+  },
+  {
+   "sno": 557,
+   "name": "JJ Cluster Behind Palika Dham& Hotel Nicco Bangla Sahib Road",
+   "latitude": 28.625981,
+   "longitude": 77.211407
+  },
+  {
+   "sno": 558,
+   "name": "Jhuggiesat Talkatora Park Lane Behind Talkatora Stadium",
+   "latitude": 28.625113,
+   "longitude": 77.19605
+  },
+  {
+   "sno": 559,
+   "name": "Indira Camp, Pandara Road Behind Kendiriya Bhandar",
+   "latitude": 28.603179,
+   "longitude": 77.230321
+  },
+  {
+   "sno": 560,
+   "name": "JJ Cluster, Backof Chelmsford Club, Raisina Road",
+   "latitude": 28.617085,
+   "longitude": 77.211512
+  },
+  {
+   "sno": 561,
+   "name": "JJ Cluster Behind Meridien Hotel, Dr.Rajinder Prasad Road.",
+   "latitude": 28.618084,
+   "longitude": 77.21795
+  },
+  {
+   "sno": 562,
+   "name": "JJ Clusterat Backof House No.2, Tughlak Lane 21-A Aurangzeb Lane",
+   "latitude": 28.59747,
+   "longitude": 77.213425
+  },
+  {
+   "sno": 563,
+   "name": "JJ Campat DID, Race Course Near Riding Club, Safdarjung Road",
+   "latitude": 28.588916,
+   "longitude": 77.208137
+  },
+  {
+   "sno": 564,
+   "name": "JJ Camp Near Masjid Polo Ground, Race Course Club, Kamal Attaturk Road",
+   "latitude": 28.593345,
+   "longitude": 77.203566
+  },
+  {
+   "sno": 565,
+   "name": "Bhaiya Ram Camp, Race Course Club, Race Course Road.",
+   "latitude": 28.592798,
+   "longitude": 77.201926
+  },
+  {
+   "sno": 566,
+   "name": "Juggiesat Dhobi Ghat No.15 South Avenue",
+   "latitude": 28.60811,
+   "longitude": 77.201925
+  },
+  {
+   "sno": 567,
+   "name": "JJ Clusterat Purana Quila Road, N.S.C.I",
+   "latitude": 28.615618,
+   "longitude": 77.238344
+  },
+  {
+   "sno": 568,
+   "name": "JJ Clusterat Shiv Mandir Near Railway Flying Club",
+   "latitude": 28.580905,
+   "longitude": 77.20147
+  },
+  {
+   "sno": 569,
+   "name": "JJ Camp(Small Cluster)Below Safdarjung Flyover Railway Line",
+   "latitude": 28.580167,
+   "longitude": 77.211957
+  },
+  {
+   "sno": 570,
+   "name": "B-58 Rama Road",
+   "latitude": 28.659442,
+   "longitude": 77.153346
+  },
+  {
+   "sno": 571,
+   "name": "5/35 Industrial Area Kirti Nagar",
+   "latitude": 28.651848,
+   "longitude": 77.148879
+  },
+  {
+   "sno": 572,
+   "name": "8/35 Industrial Area Kirti Nagar",
+   "latitude": 28.64993,
+   "longitude": 77.147444
+  },
+  {
+   "sno": 573,
+   "name": "Hanuman Mandir Near Railway Station Kirti Nagar",
+   "latitude": 28.64658,
+   "longitude": 77.144646
+  },
+  {
+   "sno": 574,
+   "name": "Dr.Ambedkar Camp 52, 53 Furniture Block, Kirti Nagar.",
+   "latitude": 28.645641,
+   "longitude": 77.143865
+  },
+  {
+   "sno": 575,
+   "name": "Amar Park Infrontof HIL Factory Gate, Petrol Pump, Zhakira",
+   "latitude": 28.671147,
+   "longitude": 77.160653
+  },
+  {
+   "sno": 576,
+   "name": "Shiv Basti Behind Gold Spot Factory Near Railway Station Patel Nagar",
+   "latitude": 28.657826,
+   "longitude": 77.153356
+  },
+  {
+   "sno": 577,
+   "name": "JJC Garib Basti",
+   "latitude": 28.660396,
+   "longitude": 77.1501
+  },
+  {
+   "sno": 578,
+   "name": "Near Haryana Dharamshalaon Najafgarh Drain G-Block, Karam Pura",
+   "latitude": 28.666942,
+   "longitude": 77.147142
+  },
+  {
+   "sno": 579,
+   "name": "Chara Mandi Jhakira Flyover",
+   "latitude": 28.66694,
+   "longitude": 77.166368
+  },
+  {
+   "sno": 580,
+   "name": "JJ Camp Rakhi Market Zhakira",
+   "latitude": 28.667148,
+   "longitude": 77.168336
+  },
+  {
+   "sno": 581,
+   "name": "Amar Park Zhakira(near Zhakira Chowck)",
+   "latitude": 28.669957,
+   "longitude": 77.163579
+  },
+  {
+   "sno": 582,
+   "name": "Silai Kendra Ramesh Nagar",
+   "latitude": 28.652238,
+   "longitude": 77.13494
+  },
+  {
+   "sno": 583,
+   "name": "B-Block, Double Storey Quaters Ramesh Nagar.",
+   "latitude": 28.65297,
+   "longitude": 77.134533
+  },
+  {
+   "sno": 584,
+   "name": "Front Sideof Block 4and 8 B Between Ramesh Nagar.",
+   "latitude": 28.649238,
+   "longitude": 77.139355
+  },
+  {
+   "sno": 585,
+   "name": "Reshma Camp, Ex-Nehru Campnear WHS-2 Kirti Nagar.",
+   "latitude": 28.640482,
+   "longitude": 77.137382
+  },
+  {
+   "sno": 586,
+   "name": "A-2 W.H.S.Kirti Nagar.",
+   "latitude": 28.63324,
+   "longitude": 77.132634
+  },
+  {
+   "sno": 587,
+   "name": "JJ Jawahar Camp A-2-Block W.H.S.Kirti Nagar",
+   "latitude": 28.633358,
+   "longitude": 77.133351
+  },
+  {
+   "sno": 588,
+   "name": "A-198 Railway Line Indira Gandhi Camp Kirti Nagar.",
+   "latitude": 28.635452,
+   "longitude": 77.135502
+  },
+  {
+   "sno": 589,
+   "name": "Sanjay Camp Chuna Bhatti Kirti Nagar",
+   "latitude": 28.636565,
+   "longitude": 77.136565
+  },
+  {
+   "sno": 590,
+   "name": "Chuna Bhatti Lakkar Mandi Kirti Nagar",
+   "latitude": 28.639133,
+   "longitude": 77.136293
+  },
+  {
+   "sno": 591,
+   "name": "Chuna Bhatti(Harijan Basti)Lakkar Mandi Kirti Nagar",
+   "latitude": 28.638571,
+   "longitude": 77.137415
+  },
+  {
+   "sno": 592,
+   "name": "Behind Fire Station Kirti Nagar.",
+   "latitude": 28.639641,
+   "longitude": 77.13519
+  },
+  {
+   "sno": 593,
+   "name": "Dr.Ambedkar Camp Plot No.39 Kirti Nagar Furniture Block.",
+   "latitude": 28.644688,
+   "longitude": 77.141131
+  },
+  {
+   "sno": 594,
+   "name": "Dr.Ambedkar Camp Plot No.39-10/67 Industrial Area Kirti Nagar.",
+   "latitude": 28.647126,
+   "longitude": 77.14336
+  },
+  {
+   "sno": 595,
+   "name": "Kamla Nehru Camp Lakkar Mandi Kirti Nagar.",
+   "latitude": 28.643675,
+   "longitude": 77.14103
+  },
+  {
+   "sno": 596,
+   "name": "Sh.Ram Bhan Dass Malviya Nagar Corner Mkt.",
+   "latitude": 28.538995,
+   "longitude": 77.215505
+  },
+  {
+   "sno": 597,
+   "name": "T-Huts Behind MCD School Village Sarai Kale Khan",
+   "latitude": 28.587418,
+   "longitude": 77.255319
+  },
+  {
+   "sno": 598,
+   "name": "Noor Nagar Okhla Village(Pucca Structure)",
+   "latitude": 28.556013,
+   "longitude": 77.285367
+  },
+  {
+   "sno": 599,
+   "name": "Subhash Camp, Ali Gaon, Near Old Iron Bridge.",
+   "latitude": 28.512485,
+   "longitude": 77.310645
+  },
+  {
+   "sno": 600,
+   "name": "Abul Fazal Enclave Okhla Village Across Canal(Pucca Structure)",
+   "latitude": 28.559426,
+   "longitude": 77.292361
+  },
+  {
+   "sno": 601,
+   "name": "Northof Jamia College Mehboob Nagar P/Ground Okhla",
+   "latitude": 28.565887,
+   "longitude": 77.281678
+  },
+  {
+   "sno": 602,
+   "name": "Indira Camp Park 2 Okhla(Tamur Nagar)",
+   "latitude": 28.573529,
+   "longitude": 77.269747
+  },
+  {
+   "sno": 603,
+   "name": "Madrasi Camp Jangpura",
+   "latitude": 28.583561,
+   "longitude": 77.253688
+  },
+  {
+   "sno": 604,
+   "name": "Near B-Block Double Story Quaters Jangpura",
+   "latitude": 28.582904,
+   "longitude": 77.254002
+  },
+  {
+   "sno": 605,
+   "name": "Indira Gandhi Camp No.1 Siddarth Basti Hari Nagar Ashram",
+   "latitude": 28.578211,
+   "longitude": 77.255925
+  },
+  {
+   "sno": 606,
+   "name": "Indira Gandhi Camp No.2 Jeewan Nagarnear Police Post Hari Nagar",
+   "latitude": 28.576876,
+   "longitude": 77.259736
+  },
+  {
+   "sno": 607,
+   "name": "Near ESI Dispansary 15/4 Shakti Nagar",
+   "latitude": 28.676311,
+   "longitude": 77.19688
+  },
+  {
+   "sno": 608,
+   "name": "Ashram Wala Bagh",
+   "latitude": 28.678309,
+   "longitude": 77.188204
+  },
+  {
+   "sno": 609,
+   "name": "D-4 Block Mangol Puri",
+   "latitude": 28.696939,
+   "longitude": 77.092886
+  },
+  {
+   "sno": 610,
+   "name": "Pacca JJ Cluster Near Princes Park Sangli Mess",
+   "latitude": 28.619781,
+   "longitude": 77.233724
+  },
+  {
+   "sno": 611,
+   "name": "Rajiv Gandhi Camp Behind T.P Lane, Mother Terressa Crescent",
+   "latitude": 28.604999,
+   "longitude": 77.195043
+  },
+  {
+   "sno": 612,
+   "name": "Shaheed Arjun Dass Campon Kushak Nalla Between Vishwa Yuvak Kendra, T.P Lane, Mother Terressa Crescent.",
+   "latitude": 28.603996,
+   "longitude": 77.196257
+  },
+  {
+   "sno": 613,
+   "name": "Shaheed Arjun Dass Camp, Laxmi Bai Nagarat Maharaja Agrasen Marg",
+   "latitude": 28.576373,
+   "longitude": 77.202969
+  },
+  {
+   "sno": 614,
+   "name": "JJ Cluster Harijan Basti, Anant Ram Dairy, Sector XIII, R.K.Puram",
+   "latitude": 28.574831,
+   "longitude": 77.182413
+  },
+  {
+   "sno": 615,
+   "name": "Opposite Sham Nagar Transit Camp Raghubir Nagar",
+   "latitude": 28.64641,
+   "longitude": 77.106143
+  },
+  {
+   "sno": 616,
+   "name": "Dhobi Ghat Kirbi Place",
+   "latitude": 28.60506,
+   "longitude": 77.123697
+  },
+  {
+   "sno": 617,
+   "name": "Barar Squara Railway Station",
+   "latitude": 28.614249,
+   "longitude": 77.138771
+  },
+  {
+   "sno": 618,
+   "name": "Behind Genral Hospital Cantt.Sadar Bazar.",
+   "latitude": 28.597899,
+   "longitude": 77.124924
+  },
+  {
+   "sno": 619,
+   "name": "Sadar Cantt.",
+   "latitude": 28.594581,
+   "longitude": 77.120137
+  },
+  {
+   "sno": 620,
+   "name": "CB Area Naraina",
+   "latitude": 28.627287,
+   "longitude": 77.132526
+  },
+  {
+   "sno": 621,
+   "name": "Kandhar Line Delhi Cantt.",
+   "latitude": 28.605584,
+   "longitude": 77.143375
+  },
+  {
+   "sno": 622,
+   "name": "Village Jherea Delhi Cantt.",
+   "latitude": 28.581299,
+   "longitude": 77.138272
+  },
+  {
+   "sno": 623,
+   "name": "Shanker Camp Behind C-II Flats, Moti Bagh Near Vidhan Chand Vidyalaya.",
+   "latitude": 28.577723,
+   "longitude": 77.177051
+  },
+  {
+   "sno": 624,
+   "name": "Sanjay Camp Part-I, Railway Camp Colony, Chankya Puri",
+   "latitude": 28.588041,
+   "longitude": 77.178143
+  },
+  {
+   "sno": 625,
+   "name": "Sanjay Camp Part-II, Railway Camp Colony, Chankya Puri Iraq Embassy Side",
+   "latitude": 28.586435,
+   "longitude": 77.178097
+  },
+  {
+   "sno": 626,
+   "name": "R-Block, Raghubir Nagar",
+   "latitude": 28.660455,
+   "longitude": 77.118984
+  },
+  {
+   "sno": 627,
+   "name": "Prem Nagar Road Baljeet Nagar",
+   "latitude": 28.657323,
+   "longitude": 77.157996
+  },
+  {
+   "sno": 628,
+   "name": "Gurunanak Nagar X Block Ranjit Nagar Nalla.",
+   "latitude": 28.645358,
+   "longitude": 77.159065
+  },
+  {
+   "sno": 629,
+   "name": "2262/5 B Near Higher Secondary B/W Ranjit Nagar",
+   "latitude": 28.644913,
+   "longitude": 77.161816
+  },
+  {
+   "sno": 630,
+   "name": "Harjian Colony Ranjit Nagar Red Cross Basic School Shadipur",
+   "latitude": 28.64812,
+   "longitude": 77.155656
+  },
+  {
+   "sno": 631,
+   "name": "Y-42 New Ranjit Nagar Munshi Ram Bagh",
+   "latitude": 28.647604,
+   "longitude": 77.156311
+  },
+  {
+   "sno": 632,
+   "name": "Nehru Nagar Gali No.-13to 16",
+   "latitude": 28.663933,
+   "longitude": 77.167232
+  },
+  {
+   "sno": 633,
+   "name": "Rajasthani Colony West Patel Nagar",
+   "latitude": 28.658861,
+   "longitude": 77.169222
+  },
+  {
+   "sno": 634,
+   "name": "On Pahadi Near Shiv Mandir Anand Parvat",
+   "latitude": 28.65934,
+   "longitude": 77.164065
+  },
+  {
+   "sno": 635,
+   "name": "T-10 Opposite F-Block Punjabi Basti Baljeet Nagar",
+   "latitude": 28.66168,
+   "longitude": 77.166629
+  },
+  {
+   "sno": 636,
+   "name": "Prem Nagarnear Patel Nagar Railway Station Opposite Latrins",
+   "latitude": 28.660066,
+   "longitude": 77.157937
+  },
+  {
+   "sno": 637,
+   "name": "Chander Puri Railway Lines Old Seelam Pur",
+   "latitude": 28.666862,
+   "longitude": 77.257425
+  },
+  {
+   "sno": 638,
+   "name": "Along Railway Lanes Kailash Lanes Gali No.-17",
+   "latitude": 28.668259,
+   "longitude": 77.261852
+  },
+  {
+   "sno": 639,
+   "name": "Ajit Nagar Old Seelampur",
+   "latitude": 28.669363,
+   "longitude": 77.266683
+  },
+  {
+   "sno": 640,
+   "name": "Taj Colony G.T.Road Railway Line New Seelam Pur",
+   "latitude": 28.670688,
+   "longitude": 77.269333
+  },
+  {
+   "sno": 641,
+   "name": "Block-G Gurdawra Park New Seelampur",
+   "latitude": 28.672325,
+   "longitude": 77.267383
+  },
+  {
+   "sno": 642,
+   "name": "Syamli Chirga, Near Police Check Post, Bihari Building Yaumna Bridge",
+   "latitude": 28.665333,
+   "longitude": 77.253522
+  },
+  {
+   "sno": 643,
+   "name": "Block-C Shashtri Park, New Seelampur",
+   "latitude": 28.671042,
+   "longitude": 77.260816
+  },
+  {
+   "sno": 644,
+   "name": "Pusthta Buland Masjid",
+   "latitude": 28.671569,
+   "longitude": 77.255472
+  },
+  {
+   "sno": 645,
+   "name": "JJC Tokri Walan Near Pul Mithai Azad Market",
+   "latitude": 28.663447,
+   "longitude": 77.215828
+  },
+  {
+   "sno": 646,
+   "name": "JJ Camp Near Shera Wali Market, Kutab Road",
+   "latitude": 28.657203,
+   "longitude": 77.21631
+  },
+  {
+   "sno": 647,
+   "name": "Shivaji ED Azad Market(On Road B 17 ERM)",
+   "latitude": 28.661489,
+   "longitude": 77.214814
+  },
+  {
+   "sno": 648,
+   "name": "Opposite Health Enquiry Dev Nagar",
+   "latitude": 28.659656,
+   "longitude": 77.187905
+  },
+  {
+   "sno": 649,
+   "name": "JJ Clusterat Teliwara Dera Anand Parvat",
+   "latitude": 28.661647,
+   "longitude": 77.171365
+  },
+  {
+   "sno": 650,
+   "name": "Nirankari Crusher Gali No.12 Anand Parvat",
+   "latitude": 28.662157,
+   "longitude": 77.181462
+  },
+  {
+   "sno": 651,
+   "name": "Mahavir Crusher Anand Parvat",
+   "latitude": 28.661713,
+   "longitude": 77.180699
+  },
+  {
+   "sno": 652,
+   "name": "Kharak Riwara Satwari Mehrauli",
+   "latitude": 28.468947,
+   "longitude": 77.20489
+  },
+  {
+   "sno": 653,
+   "name": "Chattar Pur Pahari Mehrauli",
+   "latitude": 28.507023,
+   "longitude": 77.183303
+  },
+  {
+   "sno": 654,
+   "name": "Mazboor Camp Near Police Chowcki Mandavli Fazalpur",
+   "latitude": 28.627502,
+   "longitude": 77.301854
+  },
+  {
+   "sno": 655,
+   "name": "AGCR Shahdara",
+   "latitude": 28.653615,
+   "longitude": 77.294019
+  },
+  {
+   "sno": 656,
+   "name": "Railway Colony Pul Mithai Mori Gate",
+   "latitude": 28.664037,
+   "longitude": 77.214856
+  },
+  {
+   "sno": 657,
+   "name": "Duffrin Bridge Mori Gate",
+   "latitude": 28.662714,
+   "longitude": 77.220895
+  },
+  {
+   "sno": 658,
+   "name": "DRP Line Pilli Kothi Lahori Gate",
+   "latitude": 28.661723,
+   "longitude": 77.217053
+  },
+  {
+   "sno": 659,
+   "name": "Pulmithai Ke Kinare Lahori Gate",
+   "latitude": 28.662238,
+   "longitude": 77.217679
+  },
+  {
+   "sno": 660,
+   "name": "Block-24 Tirlok Puri",
+   "latitude": 28.609794,
+   "longitude": 77.305687
+  },
+  {
+   "sno": 661,
+   "name": "JJ Cluster Gazipuradjoining NH 24",
+   "latitude": 28.6267,
+   "longitude": 77.321672
+  },
+  {
+   "sno": 662,
+   "name": "W-100 Mayapuri",
+   "latitude": 28.614665,
+   "longitude": 77.11206
+  },
+  {
+   "sno": 663,
+   "name": "Khazan Basti Shamshan Ghat Road Sabzi Mandi Maya Puri Site No.-1",
+   "latitude": 28.611792,
+   "longitude": 77.113718
+  },
+  {
+   "sno": 664,
+   "name": "Prayog Vihar, near Swarg Ashram Mandir, Hari Nagar",
+   "latitude": 28.631733,
+   "longitude": 77.11709
+  },
+  {
+   "sno": 665,
+   "name": "JJCA-562, Pankha Road Near Nalla, Uttam Nagar",
+   "latitude": 28.624858,
+   "longitude": 77.067118
+  },
+  {
+   "sno": 666,
+   "name": "Block-EE Ring Bund Huts Jhangir Puri",
+   "latitude": 28.734468,
+   "longitude": 77.175465
+  },
+  {
+   "sno": 667,
+   "name": "Rohini Extension 20 Pooth Kalan",
+   "latitude": 28.709622,
+   "longitude": 77.069338
+  },
+  {
+   "sno": 668,
+   "name": "Shahbad Daulatpur Block-A, E& F",
+   "latitude": 28.7432,
+   "longitude": 77.091123
+  },
+  {
+   "sno": 669,
+   "name": "Tajpur Pahari Badarpur",
+   "latitude": 28.498856,
+   "longitude": 77.30721
+  },
+  {
+   "sno": 670,
+   "name": "Sultan Puri Road Near Railway Crossingat Block-Y Phase-I Nangloi Besides Suraj Mal Stadium",
+   "latitude": 28.685038,
+   "longitude": 77.07097
+  },
+  {
+   "sno": 671,
+   "name": "jai Hind Campnear Masoodpur Village Vasant Kunj",
+   "latitude": 28.523084,
+   "longitude": 77.153064
+  },
+  {
+   "sno": 672,
+   "name": "Meer Dard Road",
+   "latitude": 28.635707,
+   "longitude": 77.233515
+  },
+  {
+   "sno": 673,
+   "name": "Khub Rampark Pem Nagar Kirari",
+   "latitude": 28.687425,
+   "longitude": 77.061072
+  },
+  {
+   "sno": 674,
+   "name": "Y-Block Dhobi Ghat Mangol Puri",
+   "latitude": 28.701122,
+   "longitude": 77.087547
+  }
+ ]
+}

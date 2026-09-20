@@ -1,0 +1,290 @@
+.dash {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  background: var(--bg);
+}
+
+/* --- top bar ------------------------------------------------------------- */
+
+.dash-top {
+  flex: none;
+  display: flex;
+  align-items: center;
+  gap: var(--space-4);
+  padding: var(--space-5);
+  background: var(--bg-card);
+  border-bottom: 1px solid var(--border);
+}
+
+.dash-back {
+  flex: none;
+  width: 30px;
+  height: 30px;
+  display: grid;
+  place-items: center;
+  border-radius: var(--radius-sm);
+  color: var(--text-muted);
+  transition: background var(--duration-fast) var(--ease);
+}
+
+.dash-back svg {
+  width: 15px;
+  height: 15px;
+}
+
+.dash-back:hover {
+  background: var(--green-100);
+  color: var(--text);
+}
+
+/* --- metrics -------------------------------------------------------------
+ * The primary element on this screen, so it takes the whole bar rather than a strip
+ * beside the branding it replaced. Metrics share the width evenly via flex:1 on each
+ * cell, which keeps the row readable as a single instrument panel instead of a
+ * left-bunched list that trails off into empty space. */
+
+.dash-metrics {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  align-items: stretch;
+  gap: var(--space-4);
+}
+
+/* Separates measured-now figures (left) from projected-if-planted figures
+ * (right). Without it the two read as one row of equally-real numbers. */
+.dash-divider {
+  width: 1px;
+  align-self: stretch;
+  margin: var(--space-1) var(--space-1);
+  background: var(--border);
+}
+
+.metric {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 2px;
+}
+
+.metric-value {
+  font-family: var(--font-display);
+  /* Scales with the bar so the figures stay the largest thing on the screen at wide
+   * viewports without overflowing their cell at narrow ones. */
+  font-size: clamp(var(--text-2xl), 2.4vw, 2.5rem);
+  font-weight: 500;
+  line-height: 1.05;
+  letter-spacing: -0.02em;
+  white-space: nowrap;
+}
+
+.metric-sub {
+  font-size: var(--text-xs);
+}
+
+.metric .eyebrow,
+.metric-sub {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+/* Selection count is the only metric that changes on interaction, so it gets the
+ * accent treatment when non-zero — nothing else on the bar competes with it. */
+.metric-on .metric-value {
+  color: var(--accent);
+}
+
+/* --- body split ---------------------------------------------------------- */
+
+.dash-body {
+  flex: 1;
+  min-height: 0;
+  display: flex;
+  gap: var(--space-4);
+  padding: var(--space-4);
+}
+
+.dash-map {
+  flex: 0 0 var(--map-width);
+  min-width: 0;
+  position: relative;
+}
+
+.dash-panel {
+  flex: 0 0 calc(var(--panel-width) - var(--space-4));
+  min-width: 0;
+  background: var(--bg-panel);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: var(--space-4);
+}
+
+.dash-blocks {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+}
+
+/* --- states -------------------------------------------------------------- */
+
+.dash-loading,
+.dash-error {
+  height: 100%;
+  display: grid;
+  place-content: center;
+  text-align: center;
+  color: var(--text-muted);
+  font-size: var(--text-sm);
+}
+
+.dash-error {
+  padding: var(--space-6);
+  gap: var(--space-2);
+}
+
+.dash-error code {
+  font-family: var(--font-mono);
+  font-size: 0.9em;
+  background: var(--green-100);
+  padding: 1px 5px;
+  border-radius: 4px;
+}
+
+.dash-empty {
+  height: 100%;
+  display: grid;
+  place-content: center;
+  justify-items: center;
+  text-align: center;
+  padding: var(--space-6);
+  max-width: 24rem;
+  margin: 0 auto;
+}
+
+.dash-empty-glyph {
+  font-size: 2rem;
+  margin-bottom: var(--space-4);
+  opacity: 0.7;
+}
+
+.dash-empty h2 {
+  font-size: var(--text-xl);
+  margin-bottom: var(--space-3);
+}
+
+/* --- equity check --------------------------------------------------------
+ * Sits above the zone blocks rather than inside any one of them, because it is a
+ * statement about the set, not about a zone. Styled as a note, not a metric — it
+ * reports on the ranking and deliberately does not look like another score. */
+
+.equity-panel {
+  padding: var(--space-4);
+  border-left: 2px solid var(--green-300);
+}
+
+.equity-line {
+  margin-top: var(--space-2);
+  font-size: var(--text-sm);
+  line-height: var(--leading-normal);
+  text-wrap: pretty;
+}
+
+/* The proxy qualifier is load-bearing, not fine print — it gets the body colour the
+ * surrounding provenance lines do not, and it is never inside the disclosure. */
+.equity-proxy {
+  margin-top: var(--space-3);
+  color: var(--text-muted);
+  text-wrap: pretty;
+}
+
+/* Per-zone counts, moved here from the zone blocks. A count per row, stated as a
+ * fact — no banding, no colour, for the same reason the zone panel never scored it. */
+.equity-zones {
+  list-style: none;
+  margin: var(--space-3) 0 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-1);
+}
+
+.equity-zones li {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: var(--space-3);
+  font-size: var(--text-sm);
+}
+
+.equity-zone-name {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.equity-zone-count {
+  flex: none;
+  font-size: var(--text-xs);
+  color: var(--text-muted);
+}
+
+/* Mirrors the .zb-gaps disclosure in the zone panel so both read as one pattern. */
+.equity-details {
+  margin-top: var(--space-4);
+  padding-top: var(--space-3);
+  border-top: 1px solid var(--border);
+}
+
+.equity-details summary {
+  cursor: pointer;
+}
+
+.equity-details ul {
+  margin: var(--space-2) 0 0;
+  padding-left: var(--space-4);
+}
+
+/* --- narrow viewports ----------------------------------------------------
+ * Below 1100px the 53/47 split leaves neither side usable, so stack: map gets a
+ * fixed height and the panel flows beneath it. */
+@media (max-width: 1100px) {
+  .dash-body {
+    flex-direction: column;
+    overflow-y: auto;
+  }
+
+  .dash-map {
+    flex: none;
+    height: 22rem;
+  }
+
+  .dash-panel {
+    flex: none;
+    overflow: visible;
+  }
+
+  .dash-top {
+    flex-wrap: wrap;
+    gap: var(--space-4);
+  }
+
+  /* Below the split point the metrics wrap into rows rather than compressing each
+   * cell past legibility. */
+  .dash-metrics {
+    flex-wrap: wrap;
+    row-gap: var(--space-4);
+  }
+
+  .metric {
+    flex: 1 1 8rem;
+  }
+
+  .dash-divider {
+    display: none;
+  }
+}

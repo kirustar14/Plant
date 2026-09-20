@@ -1,0 +1,252 @@
+/* VeggieDelhi design tokens
+ *
+ * Earthy, considered, quiet. Forest and sage rather than dashboard-green: the
+ * palette is desaturated enough that the map's priority colours are the only
+ * saturated thing on screen, which is what makes them read as data.
+ *
+ * Simplified from the Lovable prototype per the brief — fewer competing colours,
+ * more whitespace, shadows reserved for genuine elevation (modal, popover) instead
+ * of decorating every card.
+ */
+
+/* Fraunces for display, Manrope for UI. The serif/sans pairing is what stops this
+ * looking like a default admin template. */
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400&family=Manrope:wght@400;500;600;700&display=swap");
+
+:root {
+  /* ---------------------------------------------------------------- palette */
+  /* Greens: background tints through to the deep "ground" green used for
+   * primary actions and the highest priority indicators. */
+  --green-50: #f4f7f2;
+  --green-100: #e7ede3;
+  --green-200: #cfdbc7;
+  --green-300: #adc0a1;
+  --green-400: #85a075;
+  --green-500: #628054;
+  --green-600: #4a6640;
+  --green-700: #3a5133;
+  --green-800: #2d3f28;
+  --green-900: #1f2c1c;
+
+  /* Muted sage — map base, road strokes, inactive surfaces. Deliberately low
+   * chroma so zone markers sit clearly on top of it. */
+  --sage-100: #eceee9;
+  --sage-200: #d8ddd3;
+  --sage-300: #bcc4b5;
+  --sage-400: #98a291;
+  --sage-500: #77826f;
+
+  /* Warm neutrals — paper, not grey. Keeps the whole surface feeling natural. */
+  --paper: #fbfaf7;
+  --paper-raised: #ffffff;
+  --ink-900: #1c2118;
+  --ink-700: #3c4338;
+  --ink-500: #6b7365;
+  --ink-400: #8d9487;
+
+  /* Priority scale. Ordered warm-to-cool so severity reads without the legend,
+   * and chosen to stay distinguishable in the common red-green colour
+   * deficiencies by varying lightness as well as hue. */
+  --priority-critical: #a8442a;
+  --priority-high: #c47a3d;
+  --priority-moderate: #b8a04a;
+  --priority-low: var(--green-500);
+
+  /* Placement categories — form, not severity, so these are hue-distinct
+   * rather than a ramp. */
+  --placement-ground: var(--green-600);
+  --placement-wall: #5b7b8a;
+  --placement-potted: #8a6f5b;
+
+  /* Confidence bands, matching Model B's four bands. */
+  --band-promising: var(--green-600);
+  --band-plausible: var(--green-400);
+  --band-unlikely: #b8a04a;
+  --band-not-viable: var(--sage-400);
+
+  /* --------------------------------------------------------------- semantic */
+  --bg: var(--paper);
+  --bg-panel: var(--green-50);
+  --bg-card: var(--paper-raised);
+  --border: var(--sage-200);
+  --border-strong: var(--sage-300);
+  --text: var(--ink-900);
+  --text-muted: var(--ink-500);
+  --text-faint: var(--ink-400);
+  --accent: var(--green-600);
+  --accent-hover: var(--green-700);
+  --accent-contrast: #ffffff;
+
+  /* ------------------------------------------------------------- typography */
+  --font-display: "Fraunces", "Iowan Old Style", Georgia, serif;
+  --font-sans: "Manrope", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --font-mono: ui-monospace, "SF Mono", Menlo, monospace;
+
+  --text-xs: 0.75rem;
+  --text-sm: 0.8125rem;
+  --text-base: 0.9375rem;
+  --text-lg: 1.0625rem;
+  --text-xl: 1.375rem;
+  --text-2xl: 1.75rem;
+  --text-3xl: 2.5rem;
+  --text-display: 3.5rem;
+
+  --leading-tight: 1.15;
+  --leading-snug: 1.35;
+  --leading-normal: 1.6;
+
+  /* ------------------------------------------------------------------ space */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.5rem;
+  --space-6: 2rem;
+  --space-7: 3rem;
+  --space-8: 4rem;
+
+  /* ------------------------------------------------------------------ shape */
+  --radius: 12px;          /* the brief's shape language, used almost everywhere */
+  --radius-sm: 8px;
+  --radius-lg: 16px;
+  --radius-pill: 999px;
+
+  /* Shadows used sparingly — only for things that genuinely float. */
+  --shadow-card: 0 1px 2px rgba(31, 44, 28, 0.04);
+  --shadow-raised: 0 4px 12px rgba(31, 44, 28, 0.08);
+  --shadow-modal: 0 24px 48px -12px rgba(31, 44, 28, 0.28);
+
+  --scrim: rgba(29, 36, 26, 0.55);
+
+  /* ----------------------------------------------------------------- motion */
+  --ease: cubic-bezier(0.32, 0.72, 0, 1);
+  --duration-fast: 140ms;
+  --duration: 240ms;
+  --duration-slow: 720ms;
+
+  /* Layout split from the brief: map ~53%, sidebar ~47%. */
+  --map-width: 53%;
+  --panel-width: 47%;
+}
+
+/* ===========================================================================
+ * Score reveal
+ *
+ * Carried over from the prototype: a single --score custom property (0-1) drives
+ * every visual channel, so revealing a confidence score is one property change
+ * rather than coordinated animation. @property makes --score a typed, animatable
+ * number — without the type declaration browsers treat it as a string and refuse
+ * to interpolate it.
+ * ======================================================================== */
+@property --score {
+  syntax: "<number>";
+  inherits: false;
+  initial-value: 0;
+}
+
+.score-reveal {
+  --score: 0;
+  /* Set --score-target inline (e.g. style="--score-target: 0.554") and add
+   * .is-revealed to animate from 0 to it. */
+  transition: --score var(--duration-slow) var(--ease);
+}
+
+.score-reveal.is-revealed {
+  --score: var(--score-target, 0);
+}
+
+/* Radial dial: the conic sweep is driven straight off --score. */
+.score-dial {
+  --size: 96px;
+  --track: var(--sage-200);
+  --fill: var(--band-plausible);
+  position: relative;
+  width: var(--size);
+  height: var(--size);
+  border-radius: 50%;
+  background: conic-gradient(
+    var(--fill) calc(var(--score) * 360deg),
+    var(--track) 0
+  );
+  display: grid;
+  place-items: center;
+}
+
+.score-dial::after {
+  content: "";
+  position: absolute;
+  inset: 10px;
+  border-radius: 50%;
+  background: var(--bg-card);
+}
+
+.score-dial > * {
+  position: relative;
+  z-index: 1;
+}
+
+/* Linear bar variant, for compact rows. */
+.score-bar {
+  height: 6px;
+  border-radius: var(--radius-pill);
+  background: var(--sage-200);
+  overflow: hidden;
+}
+
+.score-bar::after {
+  content: "";
+  display: block;
+  height: 100%;
+  width: calc(var(--score) * 100%);
+  border-radius: inherit;
+  background: var(--fill, var(--band-plausible));
+}
+
+/* The uncertainty band. Model B never reports a bare point estimate, so the
+ * visualisation shows the interval too — this is the one place a gradient is
+ * warranted, because the fade *is* the uncertainty. */
+.score-interval {
+  position: relative;
+  height: 6px;
+  border-radius: var(--radius-pill);
+  background: var(--sage-200);
+}
+
+.score-interval::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: calc(var(--interval-low, 0) * 100%);
+  right: calc((1 - var(--interval-high, 1)) * 100%);
+  border-radius: inherit;
+  background: linear-gradient(
+    to right,
+    transparent,
+    var(--fill, var(--band-plausible)) 35%,
+    var(--fill, var(--band-plausible)) 65%,
+    transparent
+  );
+  opacity: 0.55;
+}
+
+.score-interval::after {
+  content: "";
+  position: absolute;
+  top: -2px;
+  bottom: -2px;
+  left: calc(var(--score) * 100%);
+  width: 2px;
+  border-radius: var(--radius-pill);
+  background: var(--fill, var(--band-plausible));
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .score-reveal {
+    transition: none;
+  }
+  .score-reveal.is-revealed,
+  .score-reveal {
+    --score: var(--score-target, 0);
+  }
+}

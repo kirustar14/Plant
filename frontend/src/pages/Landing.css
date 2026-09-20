@@ -1,0 +1,218 @@
+.landing {
+  min-height: 100%;
+  display: grid;
+  place-items: center;
+  padding: var(--space-6) var(--space-5);
+  /* A single very soft wash, the one gradient on this screen — it keeps the page
+   * from reading as a flat white sheet without adding visual noise. */
+  background:
+    radial-gradient(
+      ellipse 120% 80% at 50% -10%,
+      var(--green-100) 0%,
+      transparent 60%
+    ),
+    var(--bg);
+}
+
+.landing-inner {
+  width: 100%;
+  max-width: 44rem;
+}
+
+/* --- header -------------------------------------------------------------- */
+
+.landing-head {
+  text-align: center;
+  margin-bottom: var(--space-7);
+}
+
+/* The wordmark is now the page's primary anchor, standing in for the headline that
+ * used to sit beneath it. Width-bound rather than height-bound so it scales like the
+ * block of text it replaced, filling the measure at the same rhythm the headline did
+ * and shrinking with the viewport instead of overflowing it. */
+.landing-title {
+  margin: 0;
+}
+
+.landing-logo {
+  display: block;
+  width: min(100%, 26rem);
+  height: auto;
+  margin: 0 auto;
+}
+
+/* --- search + city ------------------------------------------------------- */
+
+.search-field {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  padding: 0 var(--space-4);
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  transition: border-color var(--duration-fast) var(--ease);
+}
+
+.search-field:focus-within {
+  border-color: var(--accent);
+}
+
+.search-icon {
+  width: 18px;
+  height: 18px;
+  flex: none;
+  color: var(--text-faint);
+}
+
+.search-field input {
+  flex: 1;
+  border: none;
+  outline: none;
+  background: none;
+  padding: var(--space-4) 0;
+  font: inherit;
+  color: var(--text);
+}
+
+.search-field input::placeholder {
+  color: var(--text-faint);
+}
+
+.city-card {
+  margin-top: var(--space-4);
+  display: flex;
+  align-items: center;
+  gap: var(--space-4);
+  width: 100%;
+  text-align: left;
+  padding: var(--space-5);
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-card);
+  transition: border-color var(--duration-fast) var(--ease),
+    box-shadow var(--duration-fast) var(--ease),
+    transform var(--duration-fast) var(--ease);
+}
+
+.city-card:hover:not(:disabled) {
+  border-color: var(--green-300);
+  box-shadow: var(--shadow-raised);
+}
+
+.city-card:active:not(:disabled) {
+  transform: translateY(1px);
+}
+
+.city-card:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.city-card-main {
+  flex: 1;
+  min-width: 0;
+}
+
+.city-name {
+  font-family: var(--font-display);
+  font-size: var(--text-xl);
+  font-weight: 500;
+  margin-bottom: 2px;
+}
+
+.city-meta {
+  font-size: var(--text-sm);
+}
+
+.city-card-status {
+  display: flex;
+  align-items: center;
+  gap: var(--space-4);
+  flex: none;
+}
+
+.city-arrow {
+  width: 20px;
+  height: 20px;
+  color: var(--text-faint);
+  transition: transform var(--duration) var(--ease), color var(--duration-fast) var(--ease);
+}
+
+.city-card:hover:not(:disabled) .city-arrow {
+  transform: translateX(3px);
+  color: var(--accent);
+}
+
+.pill-live {
+  background: var(--green-100);
+  color: var(--green-700);
+}
+
+.pill-live .dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--green-600);
+  animation: pulse 2.4s var(--ease) infinite;
+}
+
+@keyframes pulse {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.35;
+  }
+}
+
+.pill-warn {
+  background: #f6efdd;
+  color: #7a5c1e;
+}
+
+.offline-note {
+  margin-top: var(--space-3);
+}
+
+.offline-note code {
+  font-family: var(--font-mono);
+  font-size: 0.95em;
+  background: var(--green-100);
+  padding: 1px 5px;
+  border-radius: 4px;
+}
+
+/* --- footer -------------------------------------------------------------- */
+
+.landing-foot {
+  margin-top: var(--space-7);
+  padding-top: var(--space-5);
+  border-top: 1px solid var(--border);
+}
+
+.source-row {
+  margin-bottom: var(--space-3);
+}
+
+.source-row ul {
+  list-style: none;
+  margin: var(--space-3) 0 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+  gap: var(--space-2) var(--space-5);
+}
+
+.source-row li {
+  font-size: var(--text-sm);
+  color: var(--text-muted);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .pill-live .dot {
+    animation: none;
+  }
+}

@@ -1,0 +1,30 @@
+# Secrets — never commit
+.env
+.env.local
+*.pem
+gee-service-account.json
+service-account*.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# Node
+node_modules/
+dist/
+.vite/
+*.log
+
+# Cached API responses and generated assets (regenerable, not source)
+backend/data/cache/*
+!backend/data/cache/.gitkeep
+backend/data/generated_images/*
+!backend/data/generated_images/.gitkeep
+
+# OS
+.DS_Store
+.gstack/
